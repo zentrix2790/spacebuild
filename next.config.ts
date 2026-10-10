@@ -2,7 +2,10 @@
 const nextConfig = {
   outputFileTracingRoot: process.cwd(),
   experimental: {
-    cpus: process.env.VERCEL ? 2 : undefined,
+    // Limit parallel workers to avoid OOM on large route counts (~500+ pages).
+    cpus: Number(process.env.NEXT_BUILD_CPUS) || (process.env.VERCEL ? 2 : 1),
+    staticGenerationMaxConcurrency: 2,
+    staticGenerationMinPagesPerWorker: 25,
   },
   images: {
     
