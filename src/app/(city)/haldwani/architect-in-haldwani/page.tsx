@@ -3,11 +3,14 @@ import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Architect In Haldwani in Haldwani | Space Build Moradabad",
+  title:
+    "Architect in Haldwani: Home & Commercial Design Guide | Space Build",
 
-  description: "Looking for architect in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Looking for an architect in Haldwani? Learn what an architect does, how the design process works, what services to expect and how to choose the right one for your home or commercial project. Space Build, spacebuild.co.in.",
 
-  keywords: "Architect In Haldwani Haldwani, Space Build Moradabad, architect in haldwani",
+  keywords:
+    "architect in Haldwani, best architect in Haldwani, architect near me, residential architect Haldwani, commercial architect Haldwani, house design Haldwani, home architect Haldwani, architectural design services, house plan Haldwani, 3D elevation design, building design Haldwani, interior and exterior design, architect and construction company, Vastu friendly architect, Vastu house plan, map approval Haldwani, architect Nainital district, architect Kathgodam, architect Uttarakhand, Space Build Haldwani, Space Build architecture",
 
   robots: {
     index: true,
@@ -16,19 +19,22 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/architect-in-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/architect-in-haldwani",
   },
 
   openGraph: {
-    title: "Architect In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for architect in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Architect in Haldwani: Home & Commercial Design Guide | Space Build",
+    description:
+      "Looking for an architect in Haldwani? Learn what an architect does, how the design process works, what services to expect and how to choose the right one for your home or commercial project. Space Build, spacebuild.co.in.",
     url: "https://www.spacebuild.co.in/haldwani/architect-in-haldwani",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,15 +42,17 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Architect In Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Architect in Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Architect In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for architect in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Architect in Haldwani: Home & Commercial Design Guide | Space Build",
+    description:
+      "Looking for an architect in Haldwani? Learn what an architect does, how the design process works, what services to expect and how to choose the right one for your home or commercial project. Space Build, spacebuild.co.in.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +61,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Architect In Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

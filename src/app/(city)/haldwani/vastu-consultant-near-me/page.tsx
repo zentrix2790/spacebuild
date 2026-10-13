@@ -1,13 +1,16 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Vastu Consultant Near Me in Haldwani | Space Build Moradabad",
+  title: "Vastu Consultant Near Me in Haldwani | Space Build",
 
-  description: "Looking for vastu consultant near me in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Looking for a Vastu consultant near you in Haldwani? Space Build offers home, plot, office and shop Vastu consultation with practical, no-demolition solutions. Visit spacebuild.co.in.",
 
-  keywords: "Vastu Consultant Near Me Haldwani, Space Build Moradabad, vastu consultant near me",
+  keywords:
+    "Vastu consultant near me, Vastu consultant in Haldwani, best Vastu consultant Haldwani, Vastu expert near me, Vastu shastra consultant Uttarakhand, home Vastu consultation, residential Vastu consultant, commercial Vastu consultant, office Vastu consultation, shop Vastu tips, plot Vastu consultation, Vastu for new house, Vastu for construction, Vastu remedies without demolition, Vastu house plan, Vastu architect Haldwani, Vastu consultant Nainital district, Vastu consultant Kathgodam, Vastu direction guide, Vastu dosh remedies, Space Build Haldwani, Space Build Vastu",
 
   robots: {
     index: true,
@@ -16,35 +19,43 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/vastu-consultant-near-me",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/vastu-consultant-near-me",
   },
 
   openGraph: {
-    title: "Vastu Consultant Near Me in Haldwani | Space Build Moradabad",
-    description: "Looking for vastu consultant near me in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Vastu Consultant Near Me in Haldwani | Space Build",
+
+    description:
+      "Looking for a Vastu consultant near you in Haldwani? Space Build offers home, plot, office and shop Vastu consultation with practical, no-demolition solutions. Visit spacebuild.co.in.",
+
     url: "https://www.spacebuild.co.in/haldwani/vastu-consultant-near-me",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
+
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Vastu Consultant Near Me in Haldwani | Space Build Moradabad",
+        alt: "Vastu Consultant Near Me in Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Vastu Consultant Near Me in Haldwani | Space Build Moradabad",
-    description: "Looking for vastu consultant near me in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Vastu Consultant Near Me in Haldwani | Space Build",
+
+    description:
+      "Looking for a Vastu consultant near you in Haldwani? Space Build offers home, plot, office and shop Vastu consultation with practical, no-demolition solutions. Visit spacebuild.co.in.",
+
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +64,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Vastu Consultant Near Me in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

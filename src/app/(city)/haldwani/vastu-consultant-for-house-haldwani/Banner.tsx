@@ -14,7 +14,7 @@ export default function Banner() {
 
         <div className="relative mx-auto max-w-7xl text-center">
           <h1 className="mb-4 mt-18 text-3xl font-serif md:mt-30 md:text-4xl">
-            Vastu Consultant For House Haldwani
+            Vastu Consultant For House Haldwani 
           </h1>
 
           <p className="mx-auto mb-6 max-w-4xl text-xl">

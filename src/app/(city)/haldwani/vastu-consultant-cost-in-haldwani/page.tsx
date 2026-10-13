@@ -1,13 +1,16 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Vastu Consultant Cost In Haldwani in Haldwani | Space Build Moradabad",
+  title: "Vastu Consultant Cost in Haldwani: Fees & Factors | Space Build",
 
-  description: "Looking for vastu consultant cost in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Wondering about Vastu consultant cost in Haldwani? Learn what affects fees for home, plot, shop and office Vastu consultation, and get a clear, honest quote from Space Build. Visit spacebuild.co.in.",
 
-  keywords: "Vastu Consultant Cost In Haldwani Haldwani, Space Build Moradabad, vastu consultant cost in haldwani",
+  keywords:
+    "Vastu consultant cost in Haldwani, Vastu consultant fees Haldwani, Vastu consultation charges, Vastu consultant price, Vastu expert fees near me, cost of Vastu consultation for home, Vastu consultation for plot cost, commercial Vastu consultant charges, shop Vastu consultation fees, office Vastu consultant cost, Vastu consultant near me, Vastu consultant in Haldwani, best Vastu consultant Haldwani, affordable Vastu consultant, Vastu consultation without demolition, Vastu house plan cost, Vastu site visit charges, Vastu consultant Uttarakhand, Vastu consultant Nainital district, Space Build Haldwani, Space Build Vastu",
 
   robots: {
     index: true,
@@ -16,35 +19,43 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/vastu-consultant-cost-in-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/vastu-consultant-cost-in-haldwani",
   },
 
   openGraph: {
-    title: "Vastu Consultant Cost In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for vastu consultant cost in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Vastu Consultant Cost in Haldwani: Fees & Factors | Space Build",
+
+    description:
+      "Wondering about Vastu consultant cost in Haldwani? Learn what affects fees for home, plot, shop and office Vastu consultation, and get a clear, honest quote from Space Build. Visit spacebuild.co.in.",
+
     url: "https://www.spacebuild.co.in/haldwani/vastu-consultant-cost-in-haldwani",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
+
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Vastu Consultant Cost In Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Vastu Consultant Cost in Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Vastu Consultant Cost In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for vastu consultant cost in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Vastu Consultant Cost in Haldwani: Fees & Factors | Space Build",
+
+    description:
+      "Wondering about Vastu consultant cost in Haldwani? Learn what affects fees for home, plot, shop and office Vastu consultation, and get a clear, honest quote from Space Build. Visit spacebuild.co.in.",
+
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +64,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Vastu Consultant Cost In Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

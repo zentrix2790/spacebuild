@@ -1,13 +1,31 @@
+
+import type { Metadata } from "next";
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
-export const metadata = {
-  title: "Best Interior Designer Haldwani in Haldwani | Space Build Moradabad",
+export const metadata: Metadata = {
+  title:
+    "Best Interior Designer Haldwani | 6 Tests Before You Hire",
 
-  description: "Looking for best interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Searching for the best interior designer in Haldwani? Run six simple tests on brief, drawings, materials, sites, budget and references before hiring.",
 
-  keywords: "Best Interior Designer Haldwani Haldwani, Space Build Moradabad, best interior designer haldwani",
+  keywords: [
+    "best interior designer in Haldwani",
+    "best interior designer Haldwani",
+    "interior designers in Haldwani",
+    "home interior designer Haldwani",
+    "kitchen interior designer Haldwani",
+    "office interior designer Haldwani",
+    "interior design professionals",
+    "interior designer hiring checklist",
+    "interior design brief",
+    "interior design drawings",
+    "interior materials comparison",
+    "interior design budget",
+    "interior designer references",
+  ],
 
   robots: {
     index: true,
@@ -16,35 +34,40 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/best-interior-designer-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
   },
 
   openGraph: {
-    title: "Best Interior Designer Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for best interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/best-interior-designer-haldwani",
-    siteName: "Space Build Moradabad",
-    type: "website",
+    title:
+      "Best Interior Designer Haldwani | 6 Tests Before You Hire",
+    description:
+      "Searching for the best interior designer in Haldwani? Run six simple tests on brief, drawings, materials, sites, budget and references before hiring.",
+    url: "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
+    siteName: "Space Build",
+    type: "article",
     locale: "en_IN",
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Best Interior Designer Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Best Interior Designer Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Best Interior Designer Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for best interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Best Interior Designer Haldwani | 6 Tests Before You Hire",
+    description:
+      "Searching for the best interior designer in Haldwani? Run six simple tests on brief, drawings, materials, sites, budget and references before hiring.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +76,9 @@ export const metadata = {
   },
 
   other: {
-    title: "Best Interior Designer Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
+    "content-language": "en-IN",
   },
 };
 

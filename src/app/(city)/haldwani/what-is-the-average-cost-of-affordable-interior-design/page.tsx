@@ -3,11 +3,13 @@ import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "What Is The Average Cost Of Affordable Interior Design in Haldwani | Space Build Moradabad",
+  title: "Average Cost of Affordable Interior Designer | Space Build Haldwani",
 
-  description: "Looking for what is the average cost of affordable interior design in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "What is the average cost of an affordable interior designer? Learn fee models, per sq ft ranges, room-wise costs, and money-saving tips from Space Build Haldwani. Get a free, itemized estimate today.",
 
-  keywords: "What Is The Average Cost Of Affordable Interior Design Haldwani, Space Build Moradabad, what is the average cost of affordable interior design",
+  keywords:
+    "average cost of affordable interior designer, interior designer cost, interior designer fees, interior design cost per sq ft, affordable interior designer, budget interior design, home interior cost, 2BHK interior cost, 3BHK interior cost, modular kitchen cost, wardrobe cost, false ceiling cost, turnkey interior cost, interior design Haldwani, interior designer Haldwani, Haldwani interiors, low cost interiors, interior quote, interior budget, Space Build Haldwani",
 
   robots: {
     index: true,
@@ -16,19 +18,21 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/what-is-the-average-cost-of-affordable-interior-design",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/average-cost-affordable-interior-designer",
   },
 
   openGraph: {
-    title: "What Is The Average Cost Of Affordable Interior Design in Haldwani | Space Build Moradabad",
-    description: "Looking for what is the average cost of affordable interior design in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/what-is-the-average-cost-of-affordable-interior-design",
-    siteName: "Space Build Moradabad",
+    title: "Average Cost of Affordable Interior Designer | Space Build Haldwani",
+    description:
+      "What is the average cost of an affordable interior designer? Learn fee models, per sq ft ranges, room-wise costs, and money-saving tips from Space Build Haldwani. Get a free, itemized estimate today.",
+    url: "https://www.spacebuild.co.in/haldwani/average-cost-affordable-interior-designer",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,15 +40,16 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "What Is The Average Cost Of Affordable Interior Design in Haldwani | Space Build Moradabad",
+        alt: "Average Cost of Affordable Interior Designer - Space Build Haldwani",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "What Is The Average Cost Of Affordable Interior Design in Haldwani | Space Build Moradabad",
-    description: "Looking for what is the average cost of affordable interior design in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Average Cost of Affordable Interior Designer | Space Build Haldwani",
+    description:
+      "What is the average cost of an affordable interior designer? Learn fee models, per sq ft ranges, room-wise costs, and money-saving tips from Space Build Haldwani. Get a free, itemized estimate today.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +58,8 @@ export const metadata = {
   },
 
   other: {
-    title: "What Is The Average Cost Of Affordable Interior Design in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

@@ -1,61 +1,66 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Interior Designer Reviews Haldwani in Haldwani | Space Build Moradabad",
-
-  description: "Looking for interior designer reviews haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-
-  keywords: "Interior Designer Reviews Haldwani Haldwani, Space Build Moradabad, interior designer reviews haldwani",
-
+  title:
+    "Interior Designer Haldwani Reviews | How to Read Feedback Before Hiring 2026",
+  description:
+    "Read interior designer reviews in Haldwani the smart way: spot real feedback, decode common complaints, verify claims on site and learn how studios can earn honest reviews.",
+  keywords: [
+    "interior designer Haldwani reviews",
+    "designer ratings Haldwani",
+    "client feedback Haldwani",
+    "interior studio reviews Haldwani",
+    "modular kitchen reviews Haldwani",
+    "home interior feedback Haldwani",
+    "genuine reviews Haldwani",
+    "designer reputation Haldwani",
+    "review checklist Haldwani",
+    "complaint patterns interior designers",
+  ],
+  alternates: {
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/interior-designer-haldwani-reviews",
+  },
   robots: {
     index: true,
     follow: true,
   },
-
-  authors: [
-    {
-      name: "Space Build Moradabad",
-    },
-  ],
-
-  alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-designer-reviews-haldwani",
-  },
-
-  openGraph: {
-    title: "Interior Designer Reviews Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer reviews haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-designer-reviews-haldwani",
-    siteName: "Space Build Moradabad",
-    type: "website",
-    locale: "en_IN",
-    images: [
-      {
-        url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Interior Designer Reviews Haldwani in Haldwani | Space Build Moradabad",
-      },
-    ],
-  },
-
-  twitter: {
-    card: "summary_large_image",
-    title: "Interior Designer Reviews Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer reviews haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
-  },
-
+  authors: [{ name: "Space Build" }],
   icons: {
     icon: "/favicon.ico",
   },
-
-  other: {
-    title: "Interior Designer Reviews Haldwani in Haldwani | Space Build Moradabad",
-    "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+  openGraph: {
+    title:
+      "Interior Designer Haldwani Reviews | How to Read Feedback Before Hiring 2026",
+    description:
+      "Read interior designer reviews in Haldwani the smart way: spot real feedback, decode common complaints, verify claims on site and learn how studios can earn honest reviews.",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designer-haldwani-reviews",
+    siteName: "Space Build",
+    type: "website",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Interior Designer Haldwani Reviews – 2026 Hiring Guide",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title:
+      "Interior Designer Haldwani Reviews | How to Read Feedback Before Hiring 2026",
+    description:
+      "Learn how to evaluate interior designer ratings, verify client feedback and identify common complaint patterns before hiring in Haldwani.",
+    images: ["/og-image.jpg"],
+  },
+  geo: {
+    placename: "Haldwani, Uttarakhand, India",
+    region: "IN-UT",
+    country: "IN",
   },
 };
 

@@ -2,33 +2,46 @@ import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
+
 export const metadata = {
-  title: "Interior Design Portfolio Haldwani in Haldwani | Space Build Moradabad",
+  title:
+    "Interior Design Portfolio Haldwani | How to Read, Judge and Build One 2026",
 
-  description: "Looking for interior design portfolio haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
 
-  keywords: "Interior Design Portfolio Haldwani Haldwani, Space Build Moradabad, interior design portfolio haldwani",
+  description:
+    "Explore what an interior design portfolio in Haldwani should show, how to judge real work behind the photos, and how studios can build a portfolio that earns trust.",
+
+
+  keywords:
+    "interior design portfolio Haldwani, interior portfolio, home interior projects, modular kitchen portfolio, living room designs, bedroom designs, project gallery, before and after, design case study, completed interiors",
+
 
   robots: {
     index: true,
     follow: true,
   },
 
+
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
+
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-design-portfolio-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/interior-design-portfolio-haldwani",
   },
 
+
   openGraph: {
-    title: "Interior Design Portfolio Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior design portfolio haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Design Portfolio Haldwani | How to Read, Judge and Build One 2026",
+    description:
+      "Explore what an interior design portfolio in Haldwani should show, how to judge real work behind the photos, and how studios can build a portfolio that earns trust.",
     url: "https://www.spacebuild.co.in/haldwani/interior-design-portfolio-haldwani",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,28 +49,33 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Interior Design Portfolio Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Interior Design Portfolio Haldwani - Space Build",
       },
     ],
   },
 
+
   twitter: {
     card: "summary_large_image",
-    title: "Interior Design Portfolio Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior design portfolio haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Design Portfolio Haldwani | How to Read, Judge and Build One 2026",
+    description:
+      "Explore what an interior design portfolio in Haldwani should show, how to judge real work behind the photos, and how studios can build a portfolio that earns trust.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
+
 
   icons: {
     icon: "/favicon.ico",
   },
 
+
   other: {
-    title: "Interior Design Portfolio Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
+
 
 export default function Page() {
   return (

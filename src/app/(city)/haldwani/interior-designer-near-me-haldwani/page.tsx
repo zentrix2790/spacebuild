@@ -3,11 +3,14 @@ import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Interior Designer Near Me Haldwani in Haldwani | Space Build Moradabad",
+  title:
+    "Interior Designer Near Me in Haldwani | Costs, Styles and Hiring Guide 2026",
 
-  description: "Looking for interior designer near me haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Searching for an interior designer near me in Haldwani? Compare costs, design styles for Kumaon weather, timelines, contracts and checks to hire the right studio.",
 
-  keywords: "Interior Designer Near Me Haldwani Haldwani, Space Build Moradabad, interior designer near me haldwani",
+  keywords:
+    "Interior designer near me Haldwani, home interior, modular kitchen, wardrobe design, false ceiling, living room design, bedroom interior, office interior, Vastu interiors, budget interiors, turnkey interiors, space planning, lighting design",
 
   robots: {
     index: true,
@@ -16,19 +19,22 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-designer-near-me-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/interior-designer-near-me-in-haldwani",
   },
 
   openGraph: {
-    title: "Interior Designer Near Me Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer near me haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-designer-near-me-haldwani",
-    siteName: "Space Build Moradabad",
+    title:
+      "Interior Designer Near Me in Haldwani | Costs, Styles and Hiring Guide 2026",
+    description:
+      "Searching for an interior designer near me in Haldwani? Compare costs, design styles for Kumaon weather, timelines, contracts and checks to hire the right studio.",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designer-near-me-in-haldwani",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,15 +42,17 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Interior Designer Near Me Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Interior Designer Near Me in Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Interior Designer Near Me Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer near me haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Designer Near Me in Haldwani | Costs, Styles and Hiring Guide 2026",
+    description:
+      "Searching for an interior designer near me in Haldwani? Compare costs, design styles for Kumaon weather, timelines, contracts and checks to hire the right studio.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +61,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Interior Designer Near Me Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

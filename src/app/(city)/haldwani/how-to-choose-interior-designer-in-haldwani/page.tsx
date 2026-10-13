@@ -1,61 +1,75 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "How To Choose Interior Designer In Haldwani in Haldwani | Space Build Moradabad",
+  title:
+    "How to Choose an Interior Designer in Haldwani | 10 Decision Traps to Avoid 2026",
 
-  description: "Looking for how to choose interior designer in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Choose an interior designer in Haldwani without regret: learn ten decision traps, from pretty portfolios to false discounts, and the simple counter-move that protects you from each one.",
 
-  keywords: "How To Choose Interior Designer In Haldwani Haldwani, Space Build Moradabad, how to choose interior designer in haldwani",
+  keywords: [
+    "How to choose interior designer in Haldwani",
+    "interior designer selection mistakes",
+    "designer hiring traps",
+    "portfolio trap",
+    "discount trap",
+    "interior quotation comparison",
+    "designer red flags",
+    "home interior hiring",
+    "interior contract safety",
+    "designer checklist",
+  ],
+
+  alternates: {
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/how-to-choose-interior-designer-haldwani",
+  },
 
   robots: {
     index: true,
     follow: true,
   },
 
-  authors: [
-    {
-      name: "Space Build Moradabad",
-    },
-  ],
+  authors: [{ name: "Space Build" }],
 
-  alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/how-to-choose-interior-designer-in-haldwani",
+  icons: {
+    icon: "/favicon.ico",
   },
 
   openGraph: {
-    title: "How To Choose Interior Designer In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for how to choose interior designer in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/how-to-choose-interior-designer-in-haldwani",
-    siteName: "Space Build Moradabad",
+    title:
+      "How to Choose an Interior Designer in Haldwani | 10 Decision Traps to Avoid 2026",
+    description:
+      "Choose an interior designer in Haldwani without regret: learn ten decision traps, from pretty portfolios to false discounts, and the simple counter-move that protects you from each one.",
+    url: "https://www.spacebuild.co.in/haldwani/how-to-choose-interior-designer-haldwani",
+    siteName: "Space Build",
     type: "website",
-    locale: "en_IN",
     images: [
       {
-        url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "How To Choose Interior Designer In Haldwani in Haldwani | Space Build Moradabad",
+        alt: "How to Choose an Interior Designer in Haldwani",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "How To Choose Interior Designer In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for how to choose interior designer in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
-  },
-
-  icons: {
-    icon: "/favicon.ico",
+    title:
+      "How to Choose an Interior Designer in Haldwani | 10 Decision Traps to Avoid 2026",
+    description:
+      "Choose an interior designer in Haldwani without regret: learn ten decision traps, from pretty portfolios to false discounts, and the simple counter-move that protects you from each one.",
+    images: ["/og-image.jpg"],
   },
 
   other: {
-    title: "How To Choose Interior Designer In Haldwani in Haldwani | Space Build Moradabad",
-    "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.placename": "Haldwani, Uttarakhand, India",
+    "geo.region": "IN-UT",
+    "geo.country": "IN",
   },
 };
 

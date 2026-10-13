@@ -3,11 +3,14 @@ import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Interior Design Packages Affordable in Haldwani | Space Build Moradabad",
+  title:
+    "Interior Design Packages Affordable | Space Build Haldwani",
 
-  description: "Looking for interior design packages affordable in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Explore affordable interior design packages from Space Build Haldwani. Choose from essential, standard, and premium plans with clear inclusions, honest pricing, and quality finishes. Book a free consultation today.",
 
-  keywords: "Interior Design Packages Affordable Haldwani, Space Build Moradabad, interior design packages affordable",
+  keywords:
+    "interior design packages affordable, budget interior packages, home interior packages, low cost interior design, turnkey interior package, 1BHK interior package, 2BHK interior package, 3BHK interior package, modular kitchen package, wardrobe package, false ceiling package, living room interior, bedroom interior, office interior package, interior design Haldwani, interior designer Haldwani, Haldwani interiors, affordable home makeover, interior quote, Space Build Haldwani",
 
   robots: {
     index: true,
@@ -16,19 +19,22 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-design-packages-affordable",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/interior-design-packages-affordable",
   },
 
   openGraph: {
-    title: "Interior Design Packages Affordable in Haldwani | Space Build Moradabad",
-    description: "Looking for interior design packages affordable in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Design Packages Affordable | Space Build Haldwani",
+    description:
+      "Explore affordable interior design packages from Space Build Haldwani. Choose from essential, standard, and premium plans with clear inclusions, honest pricing, and quality finishes. Book a free consultation today.",
     url: "https://www.spacebuild.co.in/haldwani/interior-design-packages-affordable",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,15 +42,17 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Interior Design Packages Affordable in Haldwani | Space Build Moradabad",
+        alt: "Affordable Interior Design Packages - Space Build Haldwani",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Interior Design Packages Affordable in Haldwani | Space Build Moradabad",
-    description: "Looking for interior design packages affordable in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Design Packages Affordable | Space Build Haldwani",
+    description:
+      "Explore affordable interior design packages from Space Build Haldwani. Choose from essential, standard, and premium plans with clear inclusions, honest pricing, and quality finishes. Book a free consultation today.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +61,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Interior Design Packages Affordable in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

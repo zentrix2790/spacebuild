@@ -3,11 +3,14 @@ import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Interior Designer For House Haldwani in Haldwani | Space Build Moradabad",
+  title:
+    "Interior Designer for House in Haldwani | Independent House Interior Guide 2026",
 
-  description: "Looking for interior designer for house haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Planning interiors for an independent house in Haldwani? Learn floor-wise planning, staircase and terrace design, bare-shell steps, costs, timelines and how to hire the right designer.",
 
-  keywords: "Interior Designer For House Haldwani Haldwani, Space Build Moradabad, interior designer for house haldwani",
+  keywords:
+    "Interior designer for house Haldwani, independent house interior, kothi interior design, duplex interior, villa interior, staircase design, terrace design, floor-wise interior plan, bare shell interior, house interior cost, modular kitchen, Vastu house interior",
 
   robots: {
     index: true,
@@ -16,19 +19,22 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-designer-for-house-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/interior-designer-for-house-in-haldwani",
   },
 
   openGraph: {
-    title: "Interior Designer For House Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer for house haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-designer-for-house-haldwani",
-    siteName: "Space Build Moradabad",
+    title:
+      "Interior Designer for House in Haldwani | Independent House Interior Guide 2026",
+    description:
+      "Planning interiors for an independent house in Haldwani? Learn floor-wise planning, staircase and terrace design, bare-shell steps, costs, timelines and how to hire the right designer.",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designer-for-house-in-haldwani",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,15 +42,17 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Interior Designer For House Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Interior Designer for House in Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Interior Designer For House Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer for house haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Designer for House in Haldwani | Independent House Interior Guide 2026",
+    description:
+      "Planning interiors for an independent house in Haldwani? Learn floor-wise planning, staircase and terrace design, bare-shell steps, costs, timelines and how to hire the right designer.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +61,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Interior Designer For House Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

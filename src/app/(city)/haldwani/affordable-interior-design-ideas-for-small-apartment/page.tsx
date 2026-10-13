@@ -1,13 +1,16 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Affordable Interior Design Ideas For Small Apartment in Haldwani | Space Build Moradabad",
+  title: "Affordable Interior Design Ideas for Small Apartments",
 
-  description: "Looking for affordable interior design ideas for small apartment in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Browse affordable interior design ideas for small apartment living: free fixes, low-cost upgrades and planned storage, with room-wise tips and budgeting.",
 
-  keywords: "Affordable Interior Design Ideas For Small Apartment Haldwani, Space Build Moradabad, affordable interior design ideas for small apartment",
+  keywords:
+    "affordable interior design ideas for small apartment living, free rearrangements, low-cost upgrades, smart storage, light, colour and humid-climate care, room-wise interior design tips, apartment budget planning",
 
   robots: {
     index: true,
@@ -16,46 +19,50 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/affordable-interior-design-ideas-for-small-apartment",
+    canonical:
+      "https://www.spacebuild.co.in/affordable-interior-design-ideas-for-small-apartments",
   },
 
   openGraph: {
-    title: "Affordable Interior Design Ideas For Small Apartment in Haldwani | Space Build Moradabad",
-    description: "Looking for affordable interior design ideas for small apartment in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/affordable-interior-design-ideas-for-small-apartment",
-    siteName: "Space Build Moradabad",
+    title: "Affordable Interior Design Ideas for Small Apartments",
+
+    description:
+      "Browse affordable interior design ideas for small apartment living: free fixes, low-cost upgrades and planned storage, with room-wise tips and budgeting.",
+
+    url: "https://www.spacebuild.co.in/affordable-interior-design-ideas-for-small-apartments",
+
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
+
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Affordable Interior Design Ideas For Small Apartment in Haldwani | Space Build Moradabad",
+        alt: "Affordable Interior Design Ideas for Small Apartments - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Affordable Interior Design Ideas For Small Apartment in Haldwani | Space Build Moradabad",
-    description: "Looking for affordable interior design ideas for small apartment in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+
+    title: "Affordable Interior Design Ideas for Small Apartments",
+
+    description:
+      "Browse affordable interior design ideas for small apartment living: free fixes, low-cost upgrades and planned storage, with room-wise tips and budgeting.",
+
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
   icons: {
     icon: "/favicon.ico",
-  },
-
-  other: {
-    title: "Affordable Interior Design Ideas For Small Apartment in Haldwani | Space Build Moradabad",
-    "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
   },
 };
 

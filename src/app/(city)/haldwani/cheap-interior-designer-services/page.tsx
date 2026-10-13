@@ -3,11 +3,13 @@ import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Cheap Interior Designer Services in Haldwani | Space Build Moradabad",
+  title: "Cheap Interior Designer Services | Spot Costly Shortcuts",
 
-  description: "Looking for cheap interior designer services in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Searching for cheap interior designer services? Learn which shortcuts cheap quotes hide, how to test them and where saving money is truly safe.",
 
-  keywords: "Cheap Interior Designer Services Haldwani, Space Build Moradabad, cheap interior designer services",
+  keywords:
+    "Find cheap interior designer services without hidden risks. Spot shortcuts in boards, hardware, paint, wiring and supervision, test samples, compare quotations and save money safely.",
 
   robots: {
     index: true,
@@ -16,19 +18,21 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/cheap-interior-designer-services",
+    canonical:
+      "https://www.spacebuild.co.in/cheap-interior-designer-services",
   },
 
   openGraph: {
-    title: "Cheap Interior Designer Services in Haldwani | Space Build Moradabad",
-    description: "Looking for cheap interior designer services in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/cheap-interior-designer-services",
-    siteName: "Space Build Moradabad",
+    title: "Cheap Interior Designer Services | Spot Costly Shortcuts",
+    description:
+      "Searching for cheap interior designer services? Learn which shortcuts cheap quotes hide, how to test them and where saving money is truly safe.",
+    url: "https://www.spacebuild.co.in/cheap-interior-designer-services",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,26 +40,21 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Cheap Interior Designer Services in Haldwani | Space Build Moradabad",
+        alt: "Cheap Interior Designer Services - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Cheap Interior Designer Services in Haldwani | Space Build Moradabad",
-    description: "Looking for cheap interior designer services in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Cheap Interior Designer Services | Spot Costly Shortcuts",
+    description:
+      "Searching for cheap interior designer services? Learn which shortcuts cheap quotes hide, how to test them and where saving money is truly safe.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
   icons: {
     icon: "/favicon.ico",
-  },
-
-  other: {
-    title: "Cheap Interior Designer Services in Haldwani | Space Build Moradabad",
-    "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
   },
 };
 

@@ -2,33 +2,46 @@ import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
+
 export const metadata = {
-  title: "Haldwani Interior Design Company in Haldwani | Space Build Moradabad",
+  title:
+    "Haldwani Interior Design Company | Due Diligence, Structure and Warranty Guide 2026",
 
-  description: "Looking for haldwani interior design company in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
 
-  keywords: "Haldwani Interior Design Company Haldwani, Space Build Moradabad, haldwani interior design company",
+  description:
+    "Choosing a Haldwani interior design company? Check legal status, team structure, capacity, finances, warranty and complaint handling before you sign and pay.",
+
+
+  keywords:
+    "Haldwani interior design company, interior design firm, registered interior company, company profile check, turnkey interior company, design and build firm, interior warranty, company vs freelancer, project capacity, interior contract",
+
 
   robots: {
     index: true,
     follow: true,
   },
 
+
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
+
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-company",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-company",
   },
 
+
   openGraph: {
-    title: "Haldwani Interior Design Company in Haldwani | Space Build Moradabad",
-    description: "Looking for haldwani interior design company in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Haldwani Interior Design Company | Due Diligence, Structure and Warranty Guide 2026",
+    description:
+      "Choosing a Haldwani interior design company? Check legal status, team structure, capacity, finances, warranty and complaint handling before you sign and pay.",
     url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-company",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,28 +49,33 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Haldwani Interior Design Company in Haldwani | Space Build Moradabad",
+        alt: "Haldwani Interior Design Company - Space Build",
       },
     ],
   },
 
+
   twitter: {
     card: "summary_large_image",
-    title: "Haldwani Interior Design Company in Haldwani | Space Build Moradabad",
-    description: "Looking for haldwani interior design company in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Haldwani Interior Design Company | Due Diligence, Structure and Warranty Guide 2026",
+    description:
+      "Choosing a Haldwani interior design company? Check legal status, team structure, capacity, finances, warranty and complaint handling before you sign and pay.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
+
 
   icons: {
     icon: "/favicon.ico",
   },
 
+
   other: {
-    title: "Haldwani Interior Design Company in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
+
 
 export default function Page() {
   return (

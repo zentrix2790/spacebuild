@@ -1,61 +1,78 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Home Interior Designer Haldwani in Haldwani | Space Build Moradabad",
+  title:
+    "Home Interior Designer in Haldwani | Plan by Family Type and Life Stage 2026",
 
-  description: "Looking for home interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Find a home interior designer in Haldwani and plan by life stage: newlyweds, young families, joint families, elders and work-from-home setups, with costs, room priorities and hiring checks.",
 
-  keywords: "Home Interior Designer Haldwani Haldwani, Space Build Moradabad, home interior designer haldwani",
+  keywords: [
+    "Home interior designer Haldwani",
+    "home interior design",
+    "family home interiors",
+    "flat interior",
+    "house interior",
+    "kids room design",
+    "elderly friendly interiors",
+    "work from home study",
+    "modular kitchen",
+    "wardrobe design",
+    "Vastu home interiors",
+    "budget home interiors",
+    "living room design",
+  ],
+
+  alternates: {
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/home-interior-designer-haldwani",
+  },
 
   robots: {
     index: true,
     follow: true,
   },
 
-  authors: [
-    {
-      name: "Space Build Moradabad",
-    },
-  ],
+  authors: [{ name: "Space Build" }],
 
-  alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/home-interior-designer-haldwani",
+  icons: {
+    icon: "/favicon.ico",
   },
 
   openGraph: {
-    title: "Home Interior Designer Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for home interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Home Interior Designer in Haldwani | Plan by Family Type and Life Stage 2026",
+    description:
+      "Find a home interior designer in Haldwani and plan by life stage: newlyweds, young families, joint families, elders and work-from-home setups, with costs, room priorities and hiring checks.",
     url: "https://www.spacebuild.co.in/haldwani/home-interior-designer-haldwani",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
-    locale: "en_IN",
     images: [
       {
-        url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Home Interior Designer Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Home Interior Designer in Haldwani",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Home Interior Designer Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for home interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
-  },
-
-  icons: {
-    icon: "/favicon.ico",
+    title:
+      "Home Interior Designer in Haldwani | Plan by Family Type and Life Stage 2026",
+    description:
+      "Find a home interior designer in Haldwani and plan by life stage: newlyweds, young families, joint families, elders and work-from-home setups, with costs, room priorities and hiring checks.",
+    images: ["/og-image.jpg"],
   },
 
   other: {
-    title: "Home Interior Designer Haldwani in Haldwani | Space Build Moradabad",
-    "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.placename": "Haldwani, Uttarakhand, India",
+    "geo.region": "IN-UT",
+    "geo.country": "IN",
   },
 };
 

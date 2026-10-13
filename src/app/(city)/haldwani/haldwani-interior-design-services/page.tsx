@@ -1,50 +1,64 @@
+import type { Metadata } from "next";
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
-export const metadata = {
-  title: "Haldwani Interior Design Services in Haldwani | Space Build Moradabad",
+export const metadata: Metadata = {
+  title: "Haldwani Interior Design Services | Season-Wise Calendar",
 
-  description: "Looking for haldwani interior design services in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Planning Haldwani interior design services? Use a season-wise calendar for design, ordering, carpentry, painting and handover to avoid delays and damage.",
 
-  keywords: "Haldwani Interior Design Services Haldwani, Space Build Moradabad, haldwani interior design services",
+  keywords: [
+    "Haldwani interior design services",
+    "interior design services in Haldwani",
+    "interior designer Haldwani",
+    "season-wise interior design calendar",
+    "interior design planning Haldwani",
+    "interior design during monsoon Haldwani",
+    "interior design during winter Haldwani",
+    "interior design during summer Haldwani",
+    "carpentry services Haldwani",
+    "interior painting services Haldwani",
+    "interior design project timeline Haldwani",
+    "home interior design Haldwani",
+  ],
 
   robots: {
     index: true,
     follow: true,
   },
 
-  authors: [
-    {
-      name: "Space Build Moradabad",
-    },
-  ],
+  authors: [{ name: "Space Build" }],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-services",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-services",
   },
 
   openGraph: {
-    title: "Haldwani Interior Design Services in Haldwani | Space Build Moradabad",
-    description: "Looking for haldwani interior design services in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Haldwani Interior Design Services | Season-Wise Calendar",
+    description:
+      "Planning Haldwani interior design services? Use a season-wise calendar for design, ordering, carpentry, painting and handover to avoid delays and damage.",
     url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-services",
-    siteName: "Space Build Moradabad",
-    type: "website",
+    siteName: "Space Build",
+    type: "article",
     locale: "en_IN",
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Haldwani Interior Design Services in Haldwani | Space Build Moradabad",
+        alt: "Haldwani Interior Design Services - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Haldwani Interior Design Services in Haldwani | Space Build Moradabad",
-    description: "Looking for haldwani interior design services in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Haldwani Interior Design Services | Season-Wise Calendar",
+    description:
+      "Plan design, ordering, carpentry, painting and handover around Haldwani's seasons to reduce delays and protect finishes.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +67,9 @@ export const metadata = {
   },
 
   other: {
-    title: "Haldwani Interior Design Services in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
+    "content-language": "en-IN",
   },
 };
 

@@ -3,11 +3,14 @@ import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Interior Designer For Home In Haldwani in Haldwani | Space Build Moradabad",
+  title:
+    "Interior Designer for Home in Haldwani | Move-In Planning Calendar 2026",
 
-  description: "Looking for interior designer for home in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Plan your home interiors in Haldwani backward from move-in day: decision deadlines, material lead times, owner tasks, festival and monsoon buffers, costs and designer hiring checks.",
 
-  keywords: "Interior Designer For Home In Haldwani Haldwani, Space Build Moradabad, interior designer for home in haldwani",
+  keywords:
+    "Interior designer for home in Haldwani, home interior planning, move-in deadline, interior timeline, material lead time, festival deadline interiors, home interior checklist, modular kitchen timeline, interior budget, interior project schedule",
 
   robots: {
     index: true,
@@ -16,19 +19,22 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-designer-for-home-in-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/interior-designer-for-home-in-haldwani",
   },
 
   openGraph: {
-    title: "Interior Designer For Home In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer for home in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Designer for Home in Haldwani | Move-In Planning Calendar 2026",
+    description:
+      "Plan your home interiors in Haldwani backward from move-in day: decision deadlines, material lead times, owner tasks, festival and monsoon buffers, costs and designer hiring checks.",
     url: "https://www.spacebuild.co.in/haldwani/interior-designer-for-home-in-haldwani",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,15 +42,17 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Interior Designer For Home In Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Interior Designer for Home in Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Interior Designer For Home In Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer for home in haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Designer for Home in Haldwani | Move-In Planning Calendar 2026",
+    description:
+      "Plan your home interiors in Haldwani backward from move-in day: decision deadlines, material lead times, owner tasks, festival and monsoon buffers, costs and designer hiring checks.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +61,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Interior Designer For Home In Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

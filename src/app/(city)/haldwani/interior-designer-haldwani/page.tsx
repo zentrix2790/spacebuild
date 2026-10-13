@@ -1,34 +1,59 @@
-import Content from "./Content";
+
+import type { Metadata } from "next";
+
 import Banner from "./Banner";
+import Content from "./Content";
 import Portfolio from "@/components/Portfolio";
 
-export const metadata = {
-  title: "Interior Designer Haldwani in Haldwani | Space Build Moradabad",
+export const metadata: Metadata = {
+  title:
+    "Interior Designer in Haldwani | Vastu-Friendly Home Interiors – Space Build",
 
-  description: "Looking for interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Looking for an interior designer in Haldwani? Space Build plans Vastu-aligned homes, modular kitchens and offices with clear budgets, smart storage and neat finishing.",
 
-  keywords: "Interior Designer Haldwani Haldwani, Space Build Moradabad, interior designer haldwani",
+  keywords: [
+    "interior designer Haldwani",
+    "Haldwani interiors",
+    "home interior Haldwani",
+    "modular kitchen Haldwani",
+    "Vastu consultant Haldwani",
+    "false ceiling Haldwani",
+    "office interior Haldwani",
+    "2 BHK interior",
+    "3 BHK interior",
+    "wardrobe design",
+    "living room design",
+    "bedroom interior",
+    "renovation Haldwani",
+    "luxury interiors",
+    "affordable interior designer",
+    "interior designer near me",
+    "Haldwani ghar ka interior",
+    "rasoi design Haldwani",
+    "Vastu ke anusar interior",
+    "Space Build Haldwani",
+  ],
 
   robots: {
     index: true,
     follow: true,
   },
 
-  authors: [
-    {
-      name: "Space Build Moradabad",
-    },
-  ],
+  authors: [{ name: "Space Build" }],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-designer-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/interior-designer-in-haldwani",
   },
 
   openGraph: {
-    title: "Interior Designer Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-designer-haldwani",
-    siteName: "Space Build Moradabad",
+    title:
+      "Interior Designer in Haldwani | Vastu-Friendly Home Interiors – Space Build",
+    description:
+      "Looking for an interior designer in Haldwani? Space Build plans Vastu-aligned homes, modular kitchens and offices with clear budgets, smart storage and neat finishing.",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designer-in-haldwani",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
     images: [
@@ -36,15 +61,17 @@ export const metadata = {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Interior Designer Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Interior Designer in Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Interior Designer Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for interior designer haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Interior Designer in Haldwani | Vastu-Friendly Home Interiors – Space Build",
+    description:
+      "Vastu-friendly home interiors, modular kitchens and office interiors in Haldwani by Space Build.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +80,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Interior Designer Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 

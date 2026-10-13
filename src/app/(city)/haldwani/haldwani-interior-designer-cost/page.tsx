@@ -1,13 +1,29 @@
+
+import type { Metadata } from "next";
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
-export const metadata = {
-  title: "Haldwani Interior Designer Cost in Haldwani | Space Build Moradabad",
+export const metadata: Metadata = {
+  title:
+    "Haldwani Interior Designer Cost | Designer Fee Models and What You Pay For 2026",
 
-  description: "Looking for haldwani interior designer cost in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "Understand Haldwani interior designer cost from the fee side: fee models, what the charge includes, extra billing, negotiation tips and how to compare designer quotes fairly.",
 
-  keywords: "Haldwani Interior Designer Cost Haldwani, Space Build Moradabad, haldwani interior designer cost",
+  keywords: [
+    "Haldwani interior designer cost",
+    "interior designer fee",
+    "design charges",
+    "consultation fee",
+    "per sq ft design fee",
+    "percentage fee",
+    "turnkey design cost",
+    "3D design charges",
+    "supervision fee",
+    "designer quotation",
+    "fee negotiation",
+  ],
 
   robots: {
     index: true,
@@ -16,35 +32,40 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/haldwani-interior-designer-cost",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/haldwani-interior-designer-cost",
   },
 
   openGraph: {
-    title: "Haldwani Interior Designer Cost in Haldwani | Space Build Moradabad",
-    description: "Looking for haldwani interior designer cost in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Haldwani Interior Designer Cost | Designer Fee Models and What You Pay For 2026",
+    description:
+      "Understand Haldwani interior designer cost from the fee side: fee models, what the charge includes, extra billing, negotiation tips and how to compare designer quotes fairly.",
     url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-designer-cost",
-    siteName: "Space Build Moradabad",
-    type: "website",
+    siteName: "Space Build",
+    type: "article",
     locale: "en_IN",
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Haldwani Interior Designer Cost in Haldwani | Space Build Moradabad",
+        alt: "Haldwani Interior Designer Cost - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Haldwani Interior Designer Cost in Haldwani | Space Build Moradabad",
-    description: "Looking for haldwani interior designer cost in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title:
+      "Haldwani Interior Designer Cost | Designer Fee Models and What You Pay For 2026",
+    description:
+      "Understand Haldwani interior designer cost from the fee side: fee models, what the charge includes, extra billing, negotiation tips and how to compare designer quotes fairly.",
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +74,9 @@ export const metadata = {
   },
 
   other: {
-    title: "Haldwani Interior Designer Cost in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
+    "content-language": "en-IN",
   },
 };
 

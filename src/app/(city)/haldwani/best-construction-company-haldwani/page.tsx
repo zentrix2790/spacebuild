@@ -1,13 +1,16 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Best Construction Company Haldwani in Haldwani | Space Build Moradabad",
+  title: "Best Construction Company Haldwani | Space Build Haldwani",
 
-  description: "Looking for best construction company haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "How do you pick the best construction company in Haldwani? Use this scorecard of qualities, site checks, contract points, and red flags, and see how Space Build Haldwani plans builds with interiors in mind. Book a free consultation.",
 
-  keywords: "Best Construction Company Haldwani Haldwani, Space Build Moradabad, best construction company haldwani",
+  keywords:
+    "best construction company Haldwani, top builders Haldwani, trusted home builder Haldwani, how to choose builder, construction company checklist, house construction Haldwani, residential construction Haldwani, commercial construction Haldwani, civil contractor Haldwani, turnkey construction Haldwani, construction contract checklist, construction quality check, earthquake resistant building, construction with interiors, design and build Haldwani, interior designer Haldwani, interior design Haldwani, Haldwani construction, home building Uttarakhand, Space Build Haldwani",
 
   robots: {
     index: true,
@@ -16,35 +19,44 @@ export const metadata = {
 
   authors: [
     {
-      name: "Space Build Moradabad",
+      name: "Space Build",
     },
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/best-construction-company-haldwani",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/best-construction-company-haldwani",
   },
 
   openGraph: {
-    title: "Best Construction Company Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for best construction company haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Best Construction Company Haldwani | Space Build Haldwani",
+
+    description:
+      "How do you pick the best construction company in Haldwani? Use this scorecard of qualities, site checks, contract points, and red flags, and see how Space Build Haldwani plans builds with interiors in mind. Book a free consultation.",
+
     url: "https://www.spacebuild.co.in/haldwani/best-construction-company-haldwani",
-    siteName: "Space Build Moradabad",
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
+
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Best Construction Company Haldwani in Haldwani | Space Build Moradabad",
+        alt: "Best Construction Company Haldwani - Space Build",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Best Construction Company Haldwani in Haldwani | Space Build Moradabad",
-    description: "Looking for best construction company haldwani in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+
+    title: "Best Construction Company Haldwani | Space Build Haldwani",
+
+    description:
+      "How do you pick the best construction company in Haldwani? Use this scorecard of qualities, site checks, contract points, and red flags, and see how Space Build Haldwani plans builds with interiors in mind. Book a free consultation.",
+
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +65,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Best Construction Company Haldwani in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 
