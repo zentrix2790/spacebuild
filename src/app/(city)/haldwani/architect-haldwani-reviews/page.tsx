@@ -1,50 +1,79 @@
+
 import Content from "./Content";
 import Banner from "./Banner";
 import Portfolio from "@/components/Portfolio";
 
 export const metadata = {
-  title: "Architect Haldwani Reviews in Haldwani | Space Build Moradabad",
+  title: "Architect Haldwani Reviews | Space Build Haldwani",
 
-  description: "Looking for architect haldwani reviews in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+  description:
+    "How should you read architect Haldwani reviews? Learn where reviews appear, what makes architect reviews different, how to spot unreliable ones, and how to verify through portfolios and clients, with guidance from Space Build Haldwani.",
 
-  keywords: "Architect Haldwani Reviews Haldwani, Space Build Moradabad, architect haldwani reviews",
+  keywords: [
+    "architect Haldwani reviews",
+    "Haldwani architect ratings",
+    "architect feedback Haldwani",
+    "how to read architect reviews",
+    "architect reference check",
+    "fake review signs",
+    "architect portfolio check",
+    "verify architect registration",
+    "architect client feedback",
+    "architect selection checklist",
+    "house design Haldwani",
+    "home planning Haldwani",
+    "building plan design",
+    "design and build Haldwani",
+    "house construction Haldwani",
+    "interior designer Haldwani",
+    "interior design Haldwani",
+    "home building Uttarakhand",
+    "architect red flags",
+    "Space Build Haldwani",
+  ],
 
   robots: {
     index: true,
     follow: true,
   },
 
-  authors: [
-    {
-      name: "Space Build Moradabad",
-    },
-  ],
+  authors: [{ name: "Space Build" }],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/architect-haldwani-reviews",
+    canonical:
+      "https://www.spacebuild.co.in/haldwani/architect-haldwani-reviews",
   },
 
   openGraph: {
-    title: "Architect Haldwani Reviews in Haldwani | Space Build Moradabad",
-    description: "Looking for architect haldwani reviews in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+    title: "Architect Haldwani Reviews | Space Build Haldwani",
+
+    description:
+      "How should you read architect Haldwani reviews? Learn where reviews appear, what makes architect reviews different, how to spot unreliable ones, and how to verify through portfolios and clients, with guidance from Space Build Haldwani.",
+
     url: "https://www.spacebuild.co.in/haldwani/architect-haldwani-reviews",
-    siteName: "Space Build Moradabad",
+
+    siteName: "Space Build",
     type: "website",
     locale: "en_IN",
+
     images: [
       {
         url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Architect Haldwani Reviews in Haldwani | Space Build Moradabad",
+        alt: "Architect Haldwani Reviews | Space Build Haldwani",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Architect Haldwani Reviews in Haldwani | Space Build Moradabad",
-    description: "Looking for architect haldwani reviews in Haldwani? Space Build Moradabad offers expert design, construction, and consultation services. Visit https://www.spacebuild.co.in/ today.",
+
+    title: "Architect Haldwani Reviews | Space Build Haldwani",
+
+    description:
+      "Learn how to evaluate architect reviews in Haldwani, spot unreliable feedback, and verify portfolios, references, and registration details.",
+
     images: ["https://www.spacebuild.co.in/spacebuild_logo.jpg"],
   },
 
@@ -53,9 +82,8 @@ export const metadata = {
   },
 
   other: {
-    title: "Architect Haldwani Reviews in Haldwani | Space Build Moradabad",
     "geo.placename": "Haldwani, Uttarakhand",
-    "geo.region": "IN-UK",
+    "geo.region": "IN-UT",
   },
 };
 
