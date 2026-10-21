@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/cheap-interior-designer-services",
+      "https://www.spacebuild.co.in/haldwani/cheap-interior-designer-services",
   },
 
   openGraph: {
     title: "Cheap Interior Designer Services | Spot Costly Shortcuts",
     description:
       "Searching for cheap interior designer services? Learn which shortcuts cheap quotes hide, how to test them and where saving money is truly safe.",
-    url: "https://www.spacebuild.co.in/cheap-interior-designer-services",
+    url: "https://www.spacebuild.co.in/haldwani/cheap-interior-designer-services",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

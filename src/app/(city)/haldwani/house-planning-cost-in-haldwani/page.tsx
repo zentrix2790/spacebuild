@@ -23,14 +23,14 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/house-planning-cost-in-haldwani",
+    canonical: "https://www.spacebuild.co.in/haldwani/house-planning-cost-in-haldwani",
   },
 
   openGraph: {
     title: "House Planning and Cost in Haldwani | Space Build",
     description:
       "Explore house planning and cost in Haldwani, including construction estimates, floor plans, material selection, design ideas and budgeting tips with Space Build.",
-    url: "https://www.spacebuild.co.in/house-planning-cost-in-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/house-planning-cost-in-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

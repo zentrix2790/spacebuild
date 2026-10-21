@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/home-renovation-company-haldwani-reviews",
+      "https://www.spacebuild.co.in/haldwani/home-renovation-company-haldwani-reviews",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "How should you read home renovation company reviews in Haldwani? Learn what renovation reviews reveal, the monsoon test, how to run reference calls, and how to write a helpful review, with guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/home-renovation-company-haldwani-reviews",
+    url: "https://www.spacebuild.co.in/haldwani/home-renovation-company-haldwani-reviews",
 
     siteName: "Space Build",
     type: "website",

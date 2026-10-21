@@ -25,14 +25,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/2bhk-interior-design-services-near-me",
+      "https://www.spacebuild.co.in/haldwani/2bhk-interior-design-services-near-me",
   },
 
   openGraph: {
     title: "2BHK Interior Design Services Near Me | Space Build Haldwani",
     description:
       "Searching for 2BHK interior design services near me? Space Build Haldwani offers complete design, modular kitchens, wardrobes, ceilings, and turnkey execution with clear pricing. Book a free site visit today.",
-    url: "https://www.spacebuild.co.in/2bhk-interior-design-services-near-me",
+    url: "https://www.spacebuild.co.in/haldwani/2bhk-interior-design-services-near-me",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

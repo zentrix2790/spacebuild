@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/pest-control-service-reviews-haldwani",
+      "https://www.spacebuild.co.in/haldwani/pest-control-service-reviews-haldwani",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Pest Control Services Reviews Haldwani | Space Build Haldwani",
     description:
       "How should you read pest control services reviews in Haldwani? Learn what reviews reveal, how to spot unreliable ones, which questions to ask, and how to plan pest protection during construction and renovation.",
-    url: "https://www.spacebuild.co.in/pest-control-service-reviews-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/pest-control-service-reviews-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

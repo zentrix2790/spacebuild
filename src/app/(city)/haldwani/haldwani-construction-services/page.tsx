@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani-construction-services",
+      "https://www.spacebuild.co.in/haldwani/haldwani-construction-services",
   },
 
   openGraph: {
@@ -34,7 +34,7 @@ export const metadata = {
     description:
       "Explore construction services in Haldwani, from new houses and commercial buildings to renovation, waterproofing, and interior fit-out. Learn what each service involves and how to plan with Space Build Haldwani. Book a free consultation.",
 
-    url: "https://www.spacebuild.co.in/haldwani-construction-services",
+    url: "https://www.spacebuild.co.in/haldwani/haldwani-construction-services",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

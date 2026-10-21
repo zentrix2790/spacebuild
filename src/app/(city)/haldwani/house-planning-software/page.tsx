@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/house-planning-software",
+      "https://www.spacebuild.co.in/haldwani/house-planning-software",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "House Planning Software | Space Build Haldwani",
     description:
       "Choosing house planning software? Learn the types of tools, from free floor plan apps to 3D modelling and professional CAD, what each can and cannot do, how to use them well, and when to involve experts, with Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/house-planning-software",
+    url: "https://www.spacebuild.co.in/haldwani/house-planning-software",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

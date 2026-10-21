@@ -25,7 +25,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/interior-designers-in-haldwani",
+      "https://www.spacebuild.co.in/haldwani/interior-designers-in-haldwani",
   },
   robots: {
     index: true,
@@ -40,7 +40,7 @@ export const metadata = {
       "Interior Designers in Haldwani | Market Guide to Styles, Services and Costs 2026",
     description:
       "Understand the interior designers in Haldwani market: who offers what, project types by area, popular trends, seasonal timing, costs and checks before you choose a studio.",
-    url: "https://www.spacebuild.co.in/interior-designers-in-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designers-in-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

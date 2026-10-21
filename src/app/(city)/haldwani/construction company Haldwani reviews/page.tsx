@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/construction company Haldwani reviews",
+      "https://www.spacebuild.co.in/haldwani/construction company Haldwani reviews",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "How should you read construction company Haldwani reviews? Learn where to find reviews, how to judge them, spot fake ones, and verify claims with site visits and references, with guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/construction company Haldwani reviews",
+    url: "https://www.spacebuild.co.in/haldwani/construction company Haldwani reviews",
 
     siteName: "Space Build",
     type: "website",

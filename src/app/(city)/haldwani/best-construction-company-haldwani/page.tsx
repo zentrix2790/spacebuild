@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-construction-company-haldwani",
+      "https://www.spacebuild.co.in/haldwani/best-construction-company-haldwani",
   },
 
   openGraph: {
@@ -34,7 +34,7 @@ export const metadata = {
     description:
       "How do you pick the best construction company in Haldwani? Use this scorecard of qualities, site checks, contract points, and red flags, and see how Space Build Haldwani plans builds with interiors in mind. Book a free consultation.",
 
-    url: "https://www.spacebuild.co.in/best-construction-company-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/best-construction-company-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

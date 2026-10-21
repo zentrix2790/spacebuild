@@ -35,7 +35,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani-interior-design-portfolio",
+      "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-portfolio",
   },
 
   openGraph: {
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
       "Haldwani Interior Design Portfolio | Website, PDF, Instagram and Video Formats 2026",
     description:
       "Compare website, PDF, Instagram, WhatsApp catalogue and video walkthrough portfolios, and learn how to review interior design work in Haldwani.",
-    url: "https://www.spacebuild.co.in/haldwani-interior-design-portfolio",
+    url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-portfolio",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",

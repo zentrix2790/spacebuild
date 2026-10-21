@@ -42,7 +42,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/home-renovation-cost-haldwani",
+      "https://www.spacebuild.co.in/haldwani/home-renovation-cost-haldwani",
   },
 
   openGraph: {
@@ -51,7 +51,7 @@ export const metadata = {
     description:
       "Understand home renovation cost in Haldwani: indicative per sq ft ranges, room-wise costs for kitchens, bathrooms, flooring, and waterproofing, hidden costs, and ways to save, with a free estimate from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/home-renovation-cost-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/home-renovation-cost-haldwani",
 
     siteName: "Space Build",
     type: "website",

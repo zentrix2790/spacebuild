@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/3bhk-interior-design-contractors-in-india",
+      "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-contractors-in-india",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "3BHK Interior Design Contractors in India | Space Build Haldwani",
     description:
       "Choosing among 3BHK interior design contractors in India? Learn contractor types, selection checks, contract points, payment tips, and red flags, with guidance from Space Build Haldwani. Book a free consultation.",
-    url: "https://www.spacebuild.co.in/3bhk-interior-design-contractors-in-india",
+    url: "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-contractors-in-india",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

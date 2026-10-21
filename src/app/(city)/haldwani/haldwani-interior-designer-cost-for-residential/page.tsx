@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani-interior-designer-cost-for-residential",
+      "https://www.spacebuild.co.in/haldwani/haldwani-interior-designer-cost-for-residential",
   },
 
   robots: {
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
       "Haldwani Interior Designer Cost for Residential | Unit Rates and Sample Quote 2026",
     description:
       "See Haldwani residential interior costs item by item, including kitchen, wardrobe, ceiling, painting and electrical rates with a sample 2BHK estimate.",
-    url: "https://www.spacebuild.co.in/haldwani-interior-designer-cost-for-residential",
+    url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-designer-cost-for-residential",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",

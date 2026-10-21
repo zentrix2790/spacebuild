@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/what-is-the-average-cost-of-affordable-interior-design",
+      "https://www.spacebuild.co.in/haldwani/what-is-the-average-cost-of-affordable-interior-design",
   },
 
   openGraph: {
     title: "Average Cost of Affordable Interior Designer | Space Build Haldwani",
     description:
       "What is the average cost of an affordable interior designer? Learn fee models, per sq ft ranges, room-wise costs, and money-saving tips from Space Build Haldwani. Get a free, itemized estimate today.",
-    url: "https://www.spacebuild.co.in/what-is-the-average-cost-of-affordable-interior-design",
+    url: "https://www.spacebuild.co.in/haldwani/what-is-the-average-cost-of-affordable-interior-design",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

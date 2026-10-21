@@ -26,7 +26,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/vastu-consultant-for-house-haldwani",
+      "https://www.spacebuild.co.in/haldwani/vastu-consultant-for-house-haldwani",
   },
 
   openGraph: {
@@ -36,7 +36,7 @@ export const metadata = {
     description:
       "Looking for a Vastu consultant for your house in Haldwani? Get practical home Vastu guidance for new construction, existing houses and flats, with no-demolition solutions. Space Build, spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/vastu-consultant-for-house-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/vastu-consultant-for-house-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

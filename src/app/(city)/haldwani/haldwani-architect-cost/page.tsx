@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani-architect-cost",
+      "https://www.spacebuild.co.in/haldwani/haldwani-architect-cost",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "Understand Haldwani architect cost: fee models, indicative ranges, what affects the fee, what is included, and how to compare proposals and budget for design alongside construction, with guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani-architect-cost",
+    url: "https://www.spacebuild.co.in/haldwani/haldwani-architect-cost",
 
     siteName: "Space Build",
     type: "website",

@@ -37,7 +37,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/affordable-residential-interior-designer-haldwani",
+      "https://www.spacebuild.co.in/haldwani/affordable-residential-interior-designer-haldwani",
   },
 
   openGraph: {
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
       "Affordable Residential Interior Designer in Haldwani | Fixed-Budget Playbook 2026",
     description:
       "Find an affordable residential interior designer in Haldwani with a fixed-budget playbook: what each budget buys, where to save, what never to cut and how to compare offers.",
-    url: "https://www.spacebuild.co.in/affordable-residential-interior-designer-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/affordable-residential-interior-designer-haldwani",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",

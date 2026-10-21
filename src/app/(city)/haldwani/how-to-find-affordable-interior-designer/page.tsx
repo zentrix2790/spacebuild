@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/how-to-find-affordable-interior-designer",
+      "https://www.spacebuild.co.in/haldwani/how-to-find-affordable-interior-designer",
   },
 
   openGraph: {
     title: "How to Find Affordable Interior Designer | 7 Channels",
     description:
       "Learn how to find an affordable interior designer using seven trusted channels, a one-week search plan, budget scripts and safe hiring checks.",
-    url: "https://www.spacebuild.co.in/how-to-find-affordable-interior-designer",
+    url: "https://www.spacebuild.co.in/haldwani/how-to-find-affordable-interior-designer",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

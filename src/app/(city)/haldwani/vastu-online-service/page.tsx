@@ -24,7 +24,7 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/vastu-online-service",
+    canonical: "https://www.spacebuild.co.in/haldwani/vastu-online-service",
   },
 
   openGraph: {
@@ -32,7 +32,7 @@ export const metadata = {
       "Vastu Online Service: Remote Home & Business Vastu Consultation | Space Build",
     description:
       "Looking for a Vastu online service? Learn how remote Vastu consultation works for homes, plots, shops and offices, what to prepare and how to choose a reliable provider. Space Build, Haldwani. Visit spacebuild.co.in.",
-    url: "https://www.spacebuild.co.in/vastu-online-service",
+    url: "https://www.spacebuild.co.in/haldwani/vastu-online-service",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

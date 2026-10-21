@@ -36,13 +36,13 @@ export const metadata = {
   authors: [{ name: "Space Build" }],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-pest-control-companies-in-haldwani",
+      "https://www.spacebuild.co.in/haldwani/best-pest-control-companies-in-haldwani",
   },
   openGraph: {
     title: "Best Pest Control Companies in Haldwani | Space Build",
     description:
       "Looking for the best pest control companies in Haldwani? Learn how to compare termite, cockroach, mosquito, bed bug, and rodent control services, check treatment quality, and choose reliable pest management.",
-    url: "https://www.spacebuild.co.in/best-pest-control-companies-in-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/best-pest-control-companies-in-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

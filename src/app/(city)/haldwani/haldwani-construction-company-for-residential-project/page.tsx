@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani-construction-company-for-residential-project",
+      "https://www.spacebuild.co.in/haldwani/haldwani-construction-company-for-residential-project",
   },
 
   openGraph: {
@@ -51,7 +51,7 @@ export const metadata = {
     description:
       "Planning a home in Haldwani? Learn how a construction company handles residential projects, from design and approvals to construction and handover, with transparent, Vastu-aware planning. Space Build, spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/haldwani-construction-company-for-residential-project",
+    url: "https://www.spacebuild.co.in/haldwani/haldwani-construction-company-for-residential-project",
 
     siteName: "Space Build",
     type: "website",

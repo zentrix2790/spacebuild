@@ -21,14 +21,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/3bhk-interior-design",
+      "https://www.spacebuild.co.in/haldwani/3bhk-interior-design",
   },
 
   openGraph: {
     title: "3BHK Interior Design in Haldwani | Space Build",
     description:
       "Planning 3BHK interior design in Haldwani? Space Build offers Vastu-aware layouts, modular kitchens, wardrobes and itemised quotations. Book a consultation.",
-    url: "https://www.spacebuild.co.in/3bhk-interior-design",
+    url: "https://www.spacebuild.co.in/haldwani/3bhk-interior-design",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

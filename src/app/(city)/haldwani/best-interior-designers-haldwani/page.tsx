@@ -36,13 +36,13 @@ export const metadata = {
   authors: [{ name: "Space Build" }],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-interior-designers-haldwani",
+      "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
   },
   openGraph: {
     title: "Best Interior Designers Haldwani | Space Build Haldwani",
     description:
       "How do you find the best interior designer in Haldwani? Use this guide to judge portfolios, style fit, process, fees, and references, avoid red flags, and see how Space Build Haldwani plans homes and offices.",
-    url: "https://www.spacebuild.co.in/best-interior-designers-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

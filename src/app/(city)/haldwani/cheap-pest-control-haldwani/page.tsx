@@ -36,13 +36,13 @@ export const metadata = {
   authors: [{ name: "Space Build" }],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/cheap-pest-control-haldwani",
+      "https://www.spacebuild.co.in/haldwani/cheap-pest-control-haldwani",
   },
   openGraph: {
     title: "Cheap Pest Control in Haldwani | Affordable Pest Management",
     description:
       "Looking for cheap pest control in Haldwani? Explore affordable termite, cockroach, mosquito, bed bug, and rodent control options, cost-saving tips, and advice for choosing reliable pest management services.",
-    url: "https://www.spacebuild.co.in/cheap-pest-control-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/cheap-pest-control-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/top-10-affordable-interior-designers-in-haldwani",
+      "https://www.spacebuild.co.in/haldwani/top-10-affordable-interior-designers-in-haldwani",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Top 10 Affordable Interior Designers in Haldwani | Space Build Moradabad",
     description:
       "Looking for affordable interior designers in Haldwani? Discover the top 10 qualities that define a budget-friendly, trustworthy designer, plus pricing tips from Space Build Moradabad. Book a free consultation today.",
-    url: "https://www.spacebuild.co.in/top-10-affordable-interior-designers-in-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/top-10-affordable-interior-designers-in-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

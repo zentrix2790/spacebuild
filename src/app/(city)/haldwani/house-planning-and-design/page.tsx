@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/house-planning-and-design",
+      "https://www.spacebuild.co.in/haldwani/house-planning-and-design",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "House Planning and Design in Haldwani: Complete Home Planning Guide | Space Build",
     description:
       "Planning a house in Haldwani? Learn how house planning and design works, from plot study and floor plans to 3D elevations, budget, Vastu and approvals. Practical guidance from Space Build, spacebuild.co.in.",
-    url: "https://www.spacebuild.co.in/house-planning-and-design",
+    url: "https://www.spacebuild.co.in/haldwani/house-planning-and-design",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

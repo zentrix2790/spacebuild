@@ -25,14 +25,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani-interior-design-companies-for-homes",
+      "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-companies-for-homes",
   },
 
   openGraph: {
     title: "Haldwani Interior Design Companies for Homes | Compare",
     description:
       "Comparing Haldwani interior design companies for homes? Use one identical brief, a side-by-side sheet and simple scoring to pick with confidence.",
-    url: "https://www.spacebuild.co.in/haldwani-interior-design-companies-for-homes",
+    url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-companies-for-homes",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

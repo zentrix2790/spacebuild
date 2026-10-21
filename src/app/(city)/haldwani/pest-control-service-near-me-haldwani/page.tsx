@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/pest-control-service-near-me-haldwani",
+      "https://www.spacebuild.co.in/haldwani/pest-control-service-near-me-haldwani",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "Looking for a pest control service near you in Haldwani? Learn about termite, cockroach, mosquito, bed bug, and rodent control, treatment costs, safety tips, and how to choose a reliable pest management provider.",
 
-    url: "https://www.spacebuild.co.in/pest-control-service-near-me-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/pest-control-service-near-me-haldwani",
 
     siteName: "Space Build",
     type: "website",

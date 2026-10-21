@@ -40,7 +40,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/top-rated-home-renovation-companies-haldwani",
+      "https://www.spacebuild.co.in/haldwani/top-rated-home-renovation-companies-haldwani",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "What makes a home renovation company top rated in Haldwani? Learn how to read ratings, build a shortlist, score companies on renovation-specific points, and verify claims with site visits and references, with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/top-rated-home-renovation-companies-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/top-rated-home-renovation-companies-haldwani",
 
     siteName: "Space Build",
     type: "website",

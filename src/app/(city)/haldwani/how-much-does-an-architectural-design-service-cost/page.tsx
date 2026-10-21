@@ -42,7 +42,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/how-much-does-an-architectural-design-service-cost",
+      "https://www.spacebuild.co.in/haldwani/how-much-does-an-architectural-design-service-cost",
   },
 
   openGraph: {
@@ -52,7 +52,7 @@ export const metadata = {
     description:
       "How much does an architectural design service cost? Get quick answers, indicative ranges, example scenarios, a simple worksheet, and tips to control design fees, with guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/how-much-does-an-architectural-design-service-cost",
+    url: "https://www.spacebuild.co.in/haldwani/how-much-does-an-architectural-design-service-cost",
 
     siteName: "Space Build",
     type: "website",

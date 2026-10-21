@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/architect-for-home-renovation-haldwani",
+      "https://www.spacebuild.co.in/haldwani/architect-for-home-renovation-haldwani",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "Planning a home renovation in Haldwani? Learn when to hire an architect, what a renovation design includes, how existing structures are assessed, and how to plan safely and on budget with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/architect-for-home-renovation-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/architect-for-home-renovation-haldwani",
 
     siteName: "Space Build",
     type: "website",

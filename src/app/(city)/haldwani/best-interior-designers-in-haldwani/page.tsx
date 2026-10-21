@@ -22,7 +22,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/best-interior-designers-in-haldwani",
+      "https://www.spacebuild.co.in/haldwani/best-interior-designers-in-haldwani",
   },
   robots: {
     index: true,
@@ -37,7 +37,7 @@ export const metadata = {
       "Best Interior Designers in Haldwani | Lowest-Regret Selection Method 2026",
     description:
       "Find the best interior designers in Haldwani with a lowest-regret method: weighted scoring, paid pilot stage, reference ladder, tie-breakers and contract safeguards before you commit.",
-    url: "https://www.spacebuild.co.in/best-interior-designers-in-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/best-interior-designers-in-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

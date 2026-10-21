@@ -21,7 +21,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/interior-design-company-haldwani",
+      "https://www.spacebuild.co.in/haldwani/interior-design-company-haldwani",
   },
   robots: {
     index: true,
@@ -35,7 +35,7 @@ export const metadata = {
     title: "Interior Design Company Haldwani | Inside the Teams",
     description:
       "Looking at an interior design company in Haldwani? Learn what each internal team does, from design to site, and how to judge them before hiring.",
-    url: "https://www.spacebuild.co.in/interior-design-company-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/interior-design-company-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

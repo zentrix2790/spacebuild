@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/architect-haldwani-reviews",
+      "https://www.spacebuild.co.in/haldwani/architect-haldwani-reviews",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "How should you read architect Haldwani reviews? Learn where reviews appear, what makes architect reviews different, how to spot unreliable ones, and how to verify through portfolios and clients, with guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/architect-haldwani-reviews",
+    url: "https://www.spacebuild.co.in/haldwani/architect-haldwani-reviews",
 
     siteName: "Space Build",
     type: "website",
@@ -58,7 +58,7 @@ export const metadata = {
 
     images: [
       {
-        url: "https://www.spacebuild.co.in/spacebuild_logo.jpg",
+        url: "https://www.spacebuild.co.in/haldwani/spacebuild_logo.jpg",
         width: 1200,
         height: 630,
         alt: "Architect Haldwani Reviews | Space Build Haldwani",

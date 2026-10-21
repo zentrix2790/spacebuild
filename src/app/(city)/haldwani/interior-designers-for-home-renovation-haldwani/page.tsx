@@ -23,7 +23,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/interior-designers-for-home-renovation-haldwani",
+      "https://www.spacebuild.co.in/haldwani/interior-designers-for-home-renovation-haldwani",
   },
   robots: {
     index: true,
@@ -38,7 +38,7 @@ export const metadata = {
       "Interior Designers for Home Renovation in Haldwani | Plan, Cost and Hiring Guide 2026",
     description:
       "Planning a home renovation in Haldwani? Learn how designers survey old houses, sequence work, handle leaks and wiring, estimate costs and avoid delays during remodelling.",
-    url: "https://www.spacebuild.co.in/interior-designers-for-home-renovation-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designers-for-home-renovation-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

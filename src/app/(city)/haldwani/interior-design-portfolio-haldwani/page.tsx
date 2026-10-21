@@ -31,7 +31,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/interior-design-portfolio-haldwani",
+      "https://www.spacebuild.co.in/haldwani/interior-design-portfolio-haldwani",
   },
 
 
@@ -40,7 +40,7 @@ export const metadata = {
       "Interior Design Portfolio Haldwani | How to Read, Judge and Build One 2026",
     description:
       "Explore what an interior design portfolio in Haldwani should show, how to judge real work behind the photos, and how studios can build a portfolio that earns trust.",
-    url: "https://www.spacebuild.co.in/interior-design-portfolio-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/interior-design-portfolio-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

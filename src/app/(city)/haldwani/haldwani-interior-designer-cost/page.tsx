@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani-interior-designer-cost",
+      "https://www.spacebuild.co.in/haldwani/haldwani-interior-designer-cost",
   },
 
   openGraph: {
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
       "Haldwani Interior Designer Cost | Designer Fee Models and What You Pay For 2026",
     description:
       "Understand Haldwani interior designer cost from the fee side: fee models, what the charge includes, extra billing, negotiation tips and how to compare designer quotes fairly.",
-    url: "https://www.spacebuild.co.in/haldwani-interior-designer-cost",
+    url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-designer-cost",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",

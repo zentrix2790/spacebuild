@@ -25,14 +25,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/2bhk-interior-design-for-small-space",
+      "https://www.spacebuild.co.in/haldwani/2bhk-interior-design-for-small-space",
   },
 
   openGraph: {
     title: "2BHK Interior Design for Small Space | Space Build Haldwani",
     description:
       "Make a compact home feel open and organized with 2BHK interior design for small space by Space Build Haldwani. Smart layouts, storage, colour, and lighting ideas for tight floor plans. Book a free consultation today.",
-    url: "https://www.spacebuild.co.in/2bhk-interior-design-for-small-space",
+    url: "https://www.spacebuild.co.in/haldwani/2bhk-interior-design-for-small-space",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

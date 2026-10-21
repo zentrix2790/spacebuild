@@ -28,7 +28,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/home-interior-designer-haldwani",
+      "https://www.spacebuild.co.in/haldwani/home-interior-designer-haldwani",
   },
 
   robots: {
@@ -47,7 +47,7 @@ export const metadata = {
       "Home Interior Designer in Haldwani | Plan by Family Type and Life Stage 2026",
     description:
       "Find a home interior designer in Haldwani and plan by life stage: newlyweds, young families, joint families, elders and work-from-home setups, with costs, room priorities and hiring checks.",
-    url: "https://www.spacebuild.co.in/home-interior-designer-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/home-interior-designer-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

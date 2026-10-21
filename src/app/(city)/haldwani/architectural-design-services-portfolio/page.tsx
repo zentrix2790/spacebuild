@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/architectural-design-services-portfolio",
+      "https://www.spacebuild.co.in/haldwani/architectural-design-services-portfolio",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "How do you read an architectural design services portfolio? Learn what a good portfolio contains, how to judge drawings, renders, and built work, which questions to ask, and how to verify claims, with guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/architectural-design-services-portfolio",
+    url: "https://www.spacebuild.co.in/haldwani/architectural-design-services-portfolio",
 
     siteName: "Space Build",
     type: "website",

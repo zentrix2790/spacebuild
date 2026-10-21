@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/affordable-interior-design-ideas-for-small-apartment",
+      "https://www.spacebuild.co.in/haldwani/affordable-interior-design-ideas-for-small-apartment",
   },
 
   openGraph: {
@@ -34,7 +34,7 @@ export const metadata = {
     description:
       "Browse affordable interior design ideas for small apartment living: free fixes, low-cost upgrades and planned storage, with room-wise tips and budgeting.",
 
-    url: "https://www.spacebuild.co.in/affordable-interior-design-ideas-for-small-apartment",
+    url: "https://www.spacebuild.co.in/haldwani/affordable-interior-design-ideas-for-small-apartment",
 
     siteName: "Space Build",
     type: "website",

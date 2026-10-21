@@ -44,7 +44,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/interior-designer-haldwani",
+      "https://www.spacebuild.co.in/haldwani/interior-designer-haldwani",
   },
 
   openGraph: {
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
       "Interior Designer in Haldwani | Vastu-Friendly Home Interiors – Space Build",
     description:
       "Looking for an interior designer in Haldwani? Space Build plans Vastu-aligned homes, modular kitchens and offices with clear budgets, smart storage and neat finishing.",
-    url: "https://www.spacebuild.co.in/interior-designer-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designer-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

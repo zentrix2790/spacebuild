@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/interior-designer-for-house-haldwani",
+      "https://www.spacebuild.co.in/haldwani/interior-designer-for-house-haldwani",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Interior Designer for House in Haldwani | Independent House Interior Guide 2026",
     description:
       "Planning interiors for an independent house in Haldwani? Learn floor-wise planning, staircase and terrace design, bare-shell steps, costs, timelines and how to hire the right designer.",
-    url: "https://www.spacebuild.co.in/interior-designer-for-house-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designer-for-house-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

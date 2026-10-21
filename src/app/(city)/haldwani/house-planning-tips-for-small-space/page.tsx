@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/house-planning-tips-for-small-space",
+      "https://www.spacebuild.co.in/haldwani/house-planning-tips-for-small-space",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "House Planning Tips for Small Space | Space Build Haldwani",
     description:
       "Explore smart house planning tips for small space with Space Build Haldwani. Discover space-saving layouts, storage ideas, natural lighting and modern home design solutions.",
-    url: "https://www.spacebuild.co.in/house-planning-tips-for-small-space",
+    url: "https://www.spacebuild.co.in/haldwani/house-planning-tips-for-small-space",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

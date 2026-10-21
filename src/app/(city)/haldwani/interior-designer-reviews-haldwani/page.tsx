@@ -22,7 +22,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/interior-designer-reviews-haldwani",
+      "https://www.spacebuild.co.in/haldwani/interior-designer-reviews-haldwani",
   },
   robots: {
     index: true,
@@ -37,7 +37,7 @@ export const metadata = {
       "Interior Designer Haldwani Reviews | How to Read Feedback Before Hiring 2026",
     description:
       "Read interior designer reviews in Haldwani the smart way: spot real feedback, decode common complaints, verify claims on site and learn how studios can earn honest reviews.",
-    url: "https://www.spacebuild.co.in/interior-designer-reviews-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/interior-designer-reviews-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

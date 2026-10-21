@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/affordable-interior-designer-in-india",
+      "https://www.spacebuild.co.in/haldwani/affordable-interior-designer-in-india",
   },
 
   openGraph: {
     title: "Affordable Interior Designer in India | Region-wise Guide",
     description:
       "Searching for an affordable interior designer in India? See how climate, city type and home style change planning, materials and costs across regions.",
-    url: "https://www.spacebuild.co.in/affordable-interior-designer-in-india",
+    url: "https://www.spacebuild.co.in/haldwani/affordable-interior-designer-in-india",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -36,13 +36,13 @@ export const metadata = {
   authors: [{ name: "Space Build" }],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/home-renovation-before-and-after-haldwani",
+      "https://www.spacebuild.co.in/haldwani/home-renovation-before-and-after-haldwani",
   },
   openGraph: {
     title: "Home Renovation Before and After Haldwani | Space Build",
     description:
       "Explore home renovation before and after in Haldwani with Space Build. Discover modern interior upgrades, kitchen makeovers, bathroom improvements and smart renovation ideas.",
-    url: "https://www.spacebuild.co.in/home-renovation-before-and-after-haldwani",
+    url: "https://www.spacebuild.co.in/haldwani/home-renovation-before-and-after-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",
