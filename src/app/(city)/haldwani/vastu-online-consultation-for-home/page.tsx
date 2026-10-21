@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/vastu-online-consultation-for-home",
+      "https://www.spacebuild.co.in/vastu-online-consultation-for-home",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Vastu Online Consultation for Home: Remote House Vastu Guide | Space Build",
     description:
       "Looking for Vastu online consultation for your home? Learn how remote house Vastu review works, what it covers, how to prepare your floor plan and how to choose a reliable consultant. Space Build, Haldwani. Visit spacebuild.co.in.",
-    url: "https://www.spacebuild.co.in/haldwani/vastu-online-consultation-for-home",
+    url: "https://www.spacebuild.co.in/vastu-online-consultation-for-home",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

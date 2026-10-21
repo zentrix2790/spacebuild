@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/how-to-design-a-house-plan",
+      "https://www.spacebuild.co.in/how-to-design-a-house-plan",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "How to Design a House Plan | Space Build Haldwani",
     description:
       "Learn how to design a house plan step by step: study the plot, set needs and budget, zone rooms, plan circulation, light, and services, and prepare for approvals, with practical guidance from Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/haldwani/how-to-design-a-house-plan",
+    url: "https://www.spacebuild.co.in/how-to-design-a-house-plan",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

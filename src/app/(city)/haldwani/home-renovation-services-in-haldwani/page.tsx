@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/home-renovation-services",
+      "https://www.spacebuild.co.in/home-renovation-services-in-haldwani",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "Explore home renovation services in Haldwani, from kitchens, bathrooms, and flooring to waterproofing, wiring, ceilings, and full-home remodeling. Learn how to plan, budget, and choose a provider with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/home-renovation-services",
+    url: "https://www.spacebuild.co.in/home-renovation-services-in-haldwani",
 
     siteName: "Space Build",
     type: "website",

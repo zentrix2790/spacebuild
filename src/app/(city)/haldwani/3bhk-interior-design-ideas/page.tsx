@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-ideas",
+      "https://www.spacebuild.co.in/3bhk-interior-design-ideas",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "3BHK Interior Design Ideas | Space Build Haldwani",
     description:
       "Discover practical 3BHK interior design ideas for living rooms, bedrooms, kitchens, study zones, and storage from Space Build Haldwani. Stylish, budget-aware inspiration for family homes. Book a free consultation today.",
-    url: "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-ideas",
+    url: "https://www.spacebuild.co.in/3bhk-interior-design-ideas",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

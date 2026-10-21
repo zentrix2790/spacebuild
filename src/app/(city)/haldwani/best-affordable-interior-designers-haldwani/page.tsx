@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/best-affordable-interior-designers-haldwani",
+      "https://www.spacebuild.co.in/best-affordable-interior-designers-haldwani",
   },
 
   openGraph: {
@@ -34,7 +34,7 @@ export const metadata = {
     description:
       "Looking for the best affordable interior designers in Haldwani? Compare local carpenter, factory modular and hybrid routes for cost, quality and repairs.",
 
-    url: "https://www.spacebuild.co.in/haldwani/best-affordable-interior-designers-haldwani",
+    url: "https://www.spacebuild.co.in/best-affordable-interior-designers-haldwani",
 
     siteName: "Space Build",
     type: "website",

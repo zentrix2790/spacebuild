@@ -30,7 +30,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/affordable-interior-designer-haldwani",
+      "https://www.spacebuild.co.in/affordable-interior-designer-haldwani",
   },
   robots: {
     index: true,
@@ -44,7 +44,7 @@ export const metadata = {
     title: "Affordable Interior Designer Haldwani | Budget Home Guide",
     description:
       "Need an affordable interior designer in Haldwani? Use the spend-save-defer method to plan budgets, compare quotes and avoid cheap mistakes that cost more later.",
-    url: "https://www.spacebuild.co.in/haldwani/affordable-interior-designer-haldwani",
+    url: "https://www.spacebuild.co.in/affordable-interior-designer-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

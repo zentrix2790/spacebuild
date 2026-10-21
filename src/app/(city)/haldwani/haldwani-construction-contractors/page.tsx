@@ -42,7 +42,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/construction-contractors",
+      "https://www.spacebuild.co.in/haldwani-construction-contractors",
   },
 
   openGraph: {
@@ -52,7 +52,7 @@ export const metadata = {
     description:
       "Looking for construction contractors in Haldwani? Learn what contractors do, the types of contracts, how to compare them and how to avoid common problems. Practical guidance from Space Build, spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/haldwani/construction-contractors",
+    url: "https://www.spacebuild.co.in/haldwani-construction-contractors",
 
     siteName: "Space Build",
     type: "website",

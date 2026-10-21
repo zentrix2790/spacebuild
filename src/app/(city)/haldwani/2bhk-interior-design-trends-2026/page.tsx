@@ -21,14 +21,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/2bhk-interior-design-trends-2026-haldwani",
+      "https://www.spacebuild.co.in/2bhk-interior-design-trends-2026",
   },
 
   openGraph: {
     title: "2BHK Interior Design Trends 2026 | Space Build Haldwani",
     description:
       "Explore the top 2BHK interior design trends 2026, from warm earthy colors and smart storage to biophilic touches and sculptural lighting. Practical, budget-aware ideas from Space Build Haldwani. Book a free consultation.",
-    url: "https://www.spacebuild.co.in/2bhk-interior-design-trends-2026-haldwani",
+    url: "https://www.spacebuild.co.in/2bhk-interior-design-trends-2026",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

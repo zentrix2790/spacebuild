@@ -42,7 +42,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/construction-cost-estimates",
+      "https://www.spacebuild.co.in/construction-company-haldwani-cost-estimates",
   },
 
   openGraph: {
@@ -52,7 +52,7 @@ export const metadata = {
     description:
       "Get clear construction cost estimates from a construction company in Haldwani. Learn how estimates, BOQs and budgets work, and how to plan your home or building project. Space Build, spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/haldwani/construction-cost-estimates",
+    url: "https://www.spacebuild.co.in/construction-company-haldwani-cost-estimates",
 
     siteName: "Space Build",
     type: "website",

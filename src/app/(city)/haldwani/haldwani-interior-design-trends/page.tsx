@@ -29,13 +29,13 @@ export const metadata: Metadata = {
   authors: [{ name: "Space Build" }],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-trends",
+      "https://www.spacebuild.co.in/haldwani-interior-design-trends",
   },
   openGraph: {
     title: "Haldwani Interior Design Trends 2026 | Styles, Materials and Costs",
     description:
       "Explore Haldwani interior design trends for 2026: warm palettes, fluted panels, Pahadi-inspired decor, smart storage, layered lighting and how to adopt them without regret.",
-    url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-trends",
+    url: "https://www.spacebuild.co.in/haldwani-interior-design-trends",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",

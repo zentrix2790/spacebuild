@@ -43,7 +43,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/architectural-design-services",
+      "https://www.spacebuild.co.in/architectural-design-services",
   },
 
   openGraph: {
@@ -53,7 +53,7 @@ export const metadata = {
     description:
       "Explore architectural design services in Haldwani: house planning, 3D elevations, working drawings, map approval support and Vastu-aware design. Practical, budget-friendly guidance from Space Build, spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/haldwani/architectural-design-services",
+    url: "https://www.spacebuild.co.in/architectural-design-services",
 
     siteName: "Space Build",
     type: "website",

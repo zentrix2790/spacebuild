@@ -40,7 +40,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
+      "https://www.spacebuild.co.in/best-interior-designer-haldwani",
   },
 
   openGraph: {
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
       "Best Interior Designer Haldwani | 6 Tests Before You Hire",
     description:
       "Searching for the best interior designer in Haldwani? Run six simple tests on brief, drawings, materials, sites, budget and references before hiring.",
-    url: "https://www.spacebuild.co.in/haldwani/best-interior-designers-haldwani",
+    url: "https://www.spacebuild.co.in/best-interior-designer-haldwani",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",

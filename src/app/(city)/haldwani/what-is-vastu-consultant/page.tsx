@@ -44,7 +44,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/what-is-vastu-consultant",
+      "https://www.spacebuild.co.in/what-is-vastu-consultant",
   },
 
   openGraph: {
@@ -54,7 +54,7 @@ export const metadata = {
     description:
       "What is a Vastu consultant? Understand the meaning, role, services and benefits of a Vastu consultant, and how Space Build in Haldwani offers practical, no-demolition guidance. Visit spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/haldwani/what-is-vastu-consultant",
+    url: "https://www.spacebuild.co.in/what-is-vastu-consultant",
 
     siteName: "Space Build",
     type: "website",

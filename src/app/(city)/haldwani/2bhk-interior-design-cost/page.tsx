@@ -25,14 +25,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/2bhk-interior-design-cost-haldwani",
+      "https://www.spacebuild.co.in/2bhk-interior-design-cost",
   },
 
   openGraph: {
     title: "2BHK Interior Design Cost | Space Build Haldwani",
     description:
       "Planning a 2BHK makeover? Understand 2BHK interior design cost with package ranges, room-wise budgets, hidden charges, and saving tips from Space Build Haldwani. Get a free, itemized estimate today.",
-    url: "https://www.spacebuild.co.in/2bhk-interior-design-cost-haldwani",
+    url: "https://www.spacebuild.co.in/2bhk-interior-design-cost",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

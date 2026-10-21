@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/vastu-online-consultation-cost",
+      "https://www.spacebuild.co.in/vastu-online-consultation-cost",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Vastu Online Consultation Cost: What Affects Fees & Value | Space Build",
     description:
       "Curious about Vastu online consultation cost? Learn what shapes the fee, what a fair service includes, which charges to watch for and how to choose wisely. Honest guidance from Space Build, Haldwani. Visit spacebuild.co.in.",
-    url: "https://www.spacebuild.co.in/haldwani/vastu-online-consultation-cost",
+    url: "https://www.spacebuild.co.in/vastu-online-consultation-cost",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

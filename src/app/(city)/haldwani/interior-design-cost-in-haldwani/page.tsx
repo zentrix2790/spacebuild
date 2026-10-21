@@ -24,7 +24,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/interior-design-cost-haldwani",
+      "https://www.spacebuild.co.in/interior-design-cost-in-haldwani",
   },
   robots: {
     index: true,
@@ -39,7 +39,7 @@ export const metadata = {
       "Interior Design Cost in Haldwani | Budget Planner with Worked Examples 2026",
     description:
       "Plan your interior design cost in Haldwani with worked examples, budget splits, phase plans, what-if scenarios and checks that keep your final bill close to the quote.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-design-cost-haldwani",
+    url: "https://www.spacebuild.co.in/interior-design-cost-in-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

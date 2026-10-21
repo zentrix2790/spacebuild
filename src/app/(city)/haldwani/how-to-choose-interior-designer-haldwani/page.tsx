@@ -31,7 +31,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/how-to-choose-an-interior-designer-in-haldwani",
+      "https://www.spacebuild.co.in/how-to-choose-interior-designer-haldwani",
   },
 
 
@@ -40,7 +40,7 @@ export const metadata = {
       "How to Choose an Interior Designer in Haldwani | 7-Test Scorecard 2026",
     description:
       "Learn how to choose an interior designer in Haldwani using a simple seven-test scorecard covering portfolio, process, quotes, materials, contracts, communication and after-sales care.",
-    url: "https://www.spacebuild.co.in/haldwani/how-to-choose-an-interior-designer-in-haldwani",
+    url: "https://www.spacebuild.co.in/how-to-choose-interior-designer-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

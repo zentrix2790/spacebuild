@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/residential-interior-designer-in-haldwani",
+      "https://www.spacebuild.co.in/residential-interior-designer-haldwani",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Residential Interior Designer in Haldwani | Rules, Ownership and Process Guide 2026",
     description:
       "Hire a residential interior designer in Haldwani with confidence: learn scope, society and landlord permissions, ownership-wise planning, homeowner duties, costs and agreement checks.",
-    url: "https://www.spacebuild.co.in/haldwani/residential-interior-designer-in-haldwani",
+    url: "https://www.spacebuild.co.in/residential-interior-designer-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

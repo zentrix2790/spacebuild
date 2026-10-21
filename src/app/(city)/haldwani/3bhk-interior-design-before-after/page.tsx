@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-before-after",
+      "https://www.spacebuild.co.in/3bhk-interior-design-before-after",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "3BHK Interior Design Before After | Space Build Haldwani",
     description:
       "See how a 3BHK home changes from plain and cluttered to bright and organized. Explore 3BHK interior design before after transformations, planning steps, and ideas from Space Build Haldwani. Book a free consultation.",
-    url: "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-before-after",
+    url: "https://www.spacebuild.co.in/3bhk-interior-design-before-after",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

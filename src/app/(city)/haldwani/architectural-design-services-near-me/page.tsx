@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/architectural-design-services-near-me",
+      "https://www.spacebuild.co.in/architectural-design-services-near-me",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "Searching for architectural design services near me? Learn why local matters, how to judge nearby providers, when remote design works, and how design links to construction and interiors with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/architectural-design-services-near-me",
+    url: "https://www.spacebuild.co.in/architectural-design-services-near-me",
 
     siteName: "Space Build",
     type: "website",

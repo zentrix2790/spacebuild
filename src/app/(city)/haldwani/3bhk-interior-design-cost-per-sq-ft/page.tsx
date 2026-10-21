@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-cost-per-sq-ft",
+      "https://www.spacebuild.co.in/3bhk-interior-design-cost-per-sq-ft",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "3BHK Interior Design Cost Per Sq Ft | Space Build Haldwani",
     description:
       "Understand 3BHK interior design cost per sq ft with rate bands, area types, calculation examples, and saving tips from Space Build Haldwani. Get a clear, itemized estimate for your home today.",
-    url: "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-cost-per-sq-ft",
+    url: "https://www.spacebuild.co.in/3bhk-interior-design-cost-per-sq-ft",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

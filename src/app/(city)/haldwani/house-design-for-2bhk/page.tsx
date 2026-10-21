@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/house-design-for-2bhk",
+      "https://www.spacebuild.co.in/house-design-for-2bhk",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "House Design for 2BHK | Modern Home Ideas in Haldwani",
     description:
       "Explore modern house design for 2BHK with smart layouts, stylish interiors, modular kitchens, storage ideas and practical planning tips by Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/haldwani/house-design-for-2bhk",
+    url: "https://www.spacebuild.co.in/house-design-for-2bhk",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

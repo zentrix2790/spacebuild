@@ -25,14 +25,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/2bhk-interior-design-inspiration-haldwani",
+      "https://www.spacebuild.co.in/2bhk-interior-design-inspiration",
   },
 
   openGraph: {
     title: "2BHK Interior Design Inspiration | Space Build Haldwani",
     description:
       "Looking for 2BHK interior design inspiration? Discover style themes, color stories, and room-wise looks to shape your dream home, with practical guidance from Space Build Haldwani. Book a free consultation today.",
-    url: "https://www.spacebuild.co.in/2bhk-interior-design-inspiration-haldwani",
+    url: "https://www.spacebuild.co.in/2bhk-interior-design-inspiration",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

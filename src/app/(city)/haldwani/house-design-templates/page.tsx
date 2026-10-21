@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/house-design-templates",
+      "https://www.spacebuild.co.in/house-design-templates",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "House Design Templates | Space Build Haldwani",
     description:
       "Thinking of using a house design template or ready-made plan? Learn the types, benefits, limits, how to adapt a template to your plot, climate, structure, and approvals, and when to customize, with Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/haldwani/house-design-templates",
+    url: "https://www.spacebuild.co.in/house-design-templates",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

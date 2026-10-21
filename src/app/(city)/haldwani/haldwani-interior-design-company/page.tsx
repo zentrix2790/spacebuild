@@ -31,7 +31,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-company",
+      "https://www.spacebuild.co.in/haldwani-interior-design-company",
   },
 
 
@@ -40,7 +40,7 @@ export const metadata = {
       "Haldwani Interior Design Company | Due Diligence, Structure and Warranty Guide 2026",
     description:
       "Choosing a Haldwani interior design company? Check legal status, team structure, capacity, finances, warranty and complaint handling before you sign and pay.",
-    url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-company",
+    url: "https://www.spacebuild.co.in/haldwani-interior-design-company",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

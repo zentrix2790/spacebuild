@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-cost",
+      "https://www.spacebuild.co.in/3bhk-interior-design-cost",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "3BHK Interior Design Cost | Space Build Haldwani",
     description:
       "Planning a 3BHK makeover? Understand 3BHK interior design cost with package ranges, room-wise budgets, hidden charges, and saving tips from Space Build Haldwani. Get a free, itemized estimate today.",
-    url: "https://www.spacebuild.co.in/haldwani/3bhk-interior-design-cost",
+    url: "https://www.spacebuild.co.in/3bhk-interior-design-cost",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

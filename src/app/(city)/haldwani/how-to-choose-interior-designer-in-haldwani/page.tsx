@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/how-to-choose-interior-designer-haldwani",
+      "https://www.spacebuild.co.in/how-to-choose-interior-designer-in-haldwani",
   },
 
   robots: {
@@ -44,7 +44,7 @@ export const metadata = {
       "How to Choose an Interior Designer in Haldwani | 10 Decision Traps to Avoid 2026",
     description:
       "Choose an interior designer in Haldwani without regret: learn ten decision traps, from pretty portfolios to false discounts, and the simple counter-move that protects you from each one.",
-    url: "https://www.spacebuild.co.in/haldwani/how-to-choose-interior-designer-haldwani",
+    url: "https://www.spacebuild.co.in/how-to-choose-interior-designer-in-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

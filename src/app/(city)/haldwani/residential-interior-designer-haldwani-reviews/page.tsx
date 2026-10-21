@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/residential-interior-designer-haldwani-reviews",
+      "https://www.spacebuild.co.in/residential-interior-designer-haldwani-reviews",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Residential Interior Designer Haldwani Reviews | Read Feedback by Project Timeline 2026",
     description:
       "Read residential interior designer reviews in Haldwani by project timeline: what week-one, handover, first-monsoon and one-year feedback reveals, and how to judge each kind fairly.",
-    url: "https://www.spacebuild.co.in/haldwani/residential-interior-designer-haldwani-reviews",
+    url: "https://www.spacebuild.co.in/residential-interior-designer-haldwani-reviews",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

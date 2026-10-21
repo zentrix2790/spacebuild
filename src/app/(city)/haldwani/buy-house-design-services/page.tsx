@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/buy-house-design-services",
+      "https://www.spacebuild.co.in/buy-house-design-services",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Buy House Design Services | Space Build Haldwani",
     description:
       "A buyer's guide to house design services: package types, what each includes, how to place an order, how to check deliverables before paying, and how to avoid common problems, with guidance from Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/haldwani/buy-house-design-services",
+    url: "https://www.spacebuild.co.in/buy-house-design-services",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -41,14 +41,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/2bhk-interior-design-furniture-haldwani",
+      "https://www.spacebuild.co.in/2bhk-interior-design-furniture",
   },
 
   openGraph: {
     title: "2BHK Interior Design Furniture | Space Build Haldwani",
     description:
       "Explore practical furniture ideas for every room in your 2BHK home, including fitted furniture, custom designs, space-saving solutions, materials, and budget tips from Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/2bhk-interior-design-furniture-haldwani",
+    url: "https://www.spacebuild.co.in/2bhk-interior-design-furniture",
     siteName: "Space Build",
     images: [
       {

@@ -33,14 +33,14 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-services",
+      "https://www.spacebuild.co.in/haldwani-interior-design-services",
   },
 
   openGraph: {
     title: "Haldwani Interior Design Services | Season-Wise Calendar",
     description:
       "Planning Haldwani interior design services? Use a season-wise calendar for design, ordering, carpentry, painting and handover to avoid delays and damage.",
-    url: "https://www.spacebuild.co.in/haldwani/haldwani-interior-design-services",
+    url: "https://www.spacebuild.co.in/haldwani-interior-design-services",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",

@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/architectural-design-services-cost",
+      "https://www.spacebuild.co.in/architectural-design-services-cost",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "Understand architectural design services cost stage by stage: concept, approvals, working drawings, 3D views, and site visits. Learn indicative ranges, what affects fees, and how to budget with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/architectural-design-services-cost",
+    url: "https://www.spacebuild.co.in/architectural-design-services-cost",
 
     siteName: "Space Build",
     type: "website",

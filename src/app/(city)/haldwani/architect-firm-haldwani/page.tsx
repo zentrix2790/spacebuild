@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/architect-firm",
+      "https://www.spacebuild.co.in/architect-firm-haldwani",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "Looking for an architect firm in Haldwani? Learn how firms are structured, which services and deliverables to expect, how to compare firms and individual architects, and how design links to building and interiors with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/architect-firm",
+    url: "https://www.spacebuild.co.in/architect-firm-haldwani",
 
     siteName: "Space Build",
     type: "website",

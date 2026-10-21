@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/interior-designer-for-home-in-haldwani",
+      "https://www.spacebuild.co.in/interior-designer-for-home-in-haldwani",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Interior Designer for Home in Haldwani | Move-In Planning Calendar 2026",
     description:
       "Plan your home interiors in Haldwani backward from move-in day: decision deadlines, material lead times, owner tasks, festival and monsoon buffers, costs and designer hiring checks.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-designer-for-home-in-haldwani",
+    url: "https://www.spacebuild.co.in/interior-designer-for-home-in-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

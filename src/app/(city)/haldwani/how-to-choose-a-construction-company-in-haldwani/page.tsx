@@ -42,7 +42,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/how-to-choose-construction-company",
+      "https://www.spacebuild.co.in/how-to-choose-a-construction-company-in-haldwani",
   },
 
   openGraph: {
@@ -52,7 +52,7 @@ export const metadata = {
     description:
       "Learn how to choose a construction company in Haldwani with a clear 10-step process: define your project, set a budget, shortlist, interview, compare quotes, and sign a safe agreement. Guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/how-to-choose-construction-company",
+    url: "https://www.spacebuild.co.in/how-to-choose-a-construction-company-in-haldwani",
 
     siteName: "Space Build",
     type: "website",

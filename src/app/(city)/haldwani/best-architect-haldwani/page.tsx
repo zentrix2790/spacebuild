@@ -41,7 +41,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/best-architect",
+      "https://www.spacebuild.co.in/best-architect-haldwani",
   },
 
   openGraph: {
@@ -50,7 +50,7 @@ export const metadata = {
     description:
       "How do you find the best architect in Haldwani? Learn what architects do, how to verify registration, what to ask, how fees work, and how design connects with construction and interiors, with guidance from Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/best-architect",
+    url: "https://www.spacebuild.co.in/best-architect-haldwani",
 
     siteName: "Space Build",
     type: "website",

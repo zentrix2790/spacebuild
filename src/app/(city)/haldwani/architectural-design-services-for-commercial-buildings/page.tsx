@@ -42,7 +42,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/architectural-design-services-commercial-buildings",
+      "https://www.spacebuild.co.in/architectural-design-services-for-commercial-buildings",
   },
 
   openGraph: {
@@ -52,7 +52,7 @@ export const metadata = {
     description:
       "Explore architectural design services for commercial buildings: shops, offices, clinics, showrooms, and mixed-use spaces. Learn design priorities, stages, deliverables, and how design links to construction with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/architectural-design-services-commercial-buildings",
+    url: "https://www.spacebuild.co.in/architectural-design-services-for-commercial-buildings",
 
     siteName: "Space Build",
     type: "website",

@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/best-house-design-apps-in-2026",
+      "https://www.spacebuild.co.in/best-house-design-apps",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Best House Design Apps in 2026 | Free & Paid Home Planning Tools | Space Build Haldwani",
     description:
       "Looking for the best house design apps? Compare top home design, floor plan and 3D planning apps for Android, iOS and PC, and learn how Space Build in Haldwani turns your app design into a real home.",
-    url: "https://www.spacebuild.co.in/haldwani/best-house-design-apps-in-2026",
+    url: "https://www.spacebuild.co.in/best-house-design-apps",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -37,14 +37,14 @@ export const metadata = {
   authors: [{ name: "Space Build" }],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/how-to-choose-home-renovation-company",
+      "https://www.spacebuild.co.in/how-to-choose-home-renovation-company-haldwani",
   },
   openGraph: {
     title:
       "How to Choose a Home Renovation Company in Haldwani | Space Build",
     description:
       "Learn how to choose the best home renovation company in Haldwani. Compare experience, services, budgets, materials, timelines, and renovation contracts with Space Build.",
-    url: "https://www.spacebuild.co.in/haldwani/how-to-choose-home-renovation-company",
+    url: "https://www.spacebuild.co.in/how-to-choose-home-renovation-company-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

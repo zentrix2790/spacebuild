@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/interior-designer-near-me-in-haldwani",
+      "https://www.spacebuild.co.in/interior-designer-near-me-haldwani",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Interior Designer Near Me in Haldwani | Costs, Styles and Hiring Guide 2026",
     description:
       "Searching for an interior designer near me in Haldwani? Compare costs, design styles for Kumaon weather, timelines, contracts and checks to hire the right studio.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-designer-near-me-in-haldwani",
+    url: "https://www.spacebuild.co.in/interior-designer-near-me-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

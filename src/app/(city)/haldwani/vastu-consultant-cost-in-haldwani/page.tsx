@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/vastu-consultant-cost-in-haldwani",
+      "https://www.spacebuild.co.in/vastu-consultant-cost-in-haldwani",
   },
 
   openGraph: {
@@ -34,7 +34,7 @@ export const metadata = {
     description:
       "Wondering about Vastu consultant cost in Haldwani? Learn what affects fees for home, plot, shop and office Vastu consultation, and get a clear, honest quote from Space Build. Visit spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/haldwani/vastu-consultant-cost-in-haldwani",
+    url: "https://www.spacebuild.co.in/vastu-consultant-cost-in-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

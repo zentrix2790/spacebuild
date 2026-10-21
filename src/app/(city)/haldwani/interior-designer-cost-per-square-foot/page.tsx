@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/moradabad/interior-designer-cost-per-square-foot",
+      "https://www.spacebuild.co.in/interior-designer-cost-per-square-foot",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Interior Designer Cost Per Square Foot | Space Build Moradabad",
     description:
       "Understand interior designer cost per square foot with clear price ranges, package types, and budget tips from Space Build Moradabad. Get a transparent quote for your home or office interiors today.",
-    url: "https://www.spacebuild.co.in/moradabad/interior-designer-cost-per-square-foot",
+    url: "https://www.spacebuild.co.in/interior-designer-cost-per-square-foot",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

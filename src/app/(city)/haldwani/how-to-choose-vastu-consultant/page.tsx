@@ -26,7 +26,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/how-to-choose-a-vastu-consultant",
+      "https://www.spacebuild.co.in/how-to-choose-vastu-consultant",
   },
 
   openGraph: {
@@ -36,7 +36,7 @@ export const metadata = {
     description:
       "Not sure how to choose a Vastu consultant? Learn the key qualities to look for, red flags to avoid and questions to ask before hiring in Haldwani. Practical guidance from Space Build. Visit spacebuild.co.in.",
 
-    url: "https://www.spacebuild.co.in/haldwani/how-to-choose-a-vastu-consultant",
+    url: "https://www.spacebuild.co.in/how-to-choose-vastu-consultant",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

@@ -24,14 +24,14 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/affordable-interior-designer-pricing-models",
+      "https://www.spacebuild.co.in/affordable-interior-designer",
   },
 
   openGraph: {
     title: "Affordable Interior Designer | How Pricing Models Work",
     description:
       "Looking for an affordable interior designer? Learn how designers charge, spot hidden markups and pick the pricing model that protects your budget.",
-    url: "https://www.spacebuild.co.in/affordable-interior-designer-pricing-models",
+    url: "https://www.spacebuild.co.in/affordable-interior-designer",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

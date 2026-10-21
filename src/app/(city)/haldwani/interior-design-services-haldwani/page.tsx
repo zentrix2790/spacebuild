@@ -23,7 +23,7 @@ export const metadata = {
   ],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/interior-design-services-haldwani",
+      "https://www.spacebuild.co.in/interior-design-services-haldwani",
   },
   robots: {
     index: true,
@@ -37,7 +37,7 @@ export const metadata = {
     title: "Interior Design Services Haldwani | Packages & Deliverables",
     description:
       "Exploring interior design services in Haldwani? Compare service types, deliverables, costs, timelines and contract points before choosing your provider.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-design-services-haldwani",
+    url: "https://www.spacebuild.co.in/interior-design-services-haldwani",
     siteName: "Space Build",
     type: "website",
     images: [

@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/architectural-design-services-certification",
+      "https://www.spacebuild.co.in/architectural-design-services-certification",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Architectural Design Services Certification | Space Build Haldwani",
     description:
       "What certifications matter in architectural design services? Learn about architect registration, qualifications, professional bodies, project certificates, and green ratings, and how to verify them, with guidance from Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/haldwani/architectural-design-services-certification",
+    url: "https://www.spacebuild.co.in/architectural-design-services-certification",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

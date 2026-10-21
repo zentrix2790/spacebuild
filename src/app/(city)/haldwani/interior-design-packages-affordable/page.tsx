@@ -25,7 +25,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/interior-design-packages-affordable",
+      "https://www.spacebuild.co.in/interior-design-packages-affordable",
   },
 
   openGraph: {
@@ -33,7 +33,7 @@ export const metadata = {
       "Interior Design Packages Affordable | Space Build Haldwani",
     description:
       "Explore affordable interior design packages from Space Build Haldwani. Choose from essential, standard, and premium plans with clear inclusions, honest pricing, and quality finishes. Book a free consultation today.",
-    url: "https://www.spacebuild.co.in/haldwani/interior-design-packages-affordable",
+    url: "https://www.spacebuild.co.in/interior-design-packages-affordable",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

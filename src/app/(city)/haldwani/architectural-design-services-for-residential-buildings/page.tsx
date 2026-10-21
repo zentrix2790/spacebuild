@@ -42,7 +42,7 @@ export const metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/architectural-design-services-residential-buildings",
+      "https://www.spacebuild.co.in/architectural-design-services-for-residential-buildings",
   },
 
   openGraph: {
@@ -52,7 +52,7 @@ export const metadata = {
     description:
       "Explore architectural design services for residential buildings: independent houses, duplexes, villas, and multi-unit homes. Learn design priorities, stages, deliverables, and how design links to construction with Space Build Haldwani.",
 
-    url: "https://www.spacebuild.co.in/haldwani/architectural-design-services-residential-buildings",
+    url: "https://www.spacebuild.co.in/architectural-design-services-for-residential-buildings",
 
     siteName: "Space Build",
     type: "website",

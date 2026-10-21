@@ -36,13 +36,13 @@ export const metadata = {
   authors: [{ name: "Space Build" }],
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/cheap-home-renovation-company",
+      "https://www.spacebuild.co.in/cheap-home-renovation-company-haldwani",
   },
   openGraph: {
     title: "Cheap Home Renovation Company Haldwani | Space Build Haldwani",
     description:
       "Looking for a cheap home renovation company in Haldwani? Learn how to renovate on a budget without risky shortcuts: priorities, low-cost upgrades, quote checks, and red flags of too-cheap offers, with Space Build Haldwani.",
-    url: "https://www.spacebuild.co.in/haldwani/cheap-home-renovation-company",
+    url: "https://www.spacebuild.co.in/cheap-home-renovation-company-haldwani",
     siteName: "Space Build",
     type: "website",
     locale: "en_IN",

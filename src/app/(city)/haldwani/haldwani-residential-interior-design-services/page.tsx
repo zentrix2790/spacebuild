@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 
   alternates: {
     canonical:
-      "https://www.spacebuild.co.in/haldwani/haldwani-residential-interior-design-services",
+      "https://www.spacebuild.co.in/haldwani-residential-interior-design-services",
   },
 
   robots: {
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
       "Haldwani Residential Interior Design Services | Package Comparison Guide 2026",
     description:
       "Compare residential interior design packages in Haldwani, including inclusions, exclusions, costs, supervision and turnkey options.",
-    url: "https://www.spacebuild.co.in/haldwani/haldwani-residential-interior-design-services",
+    url: "https://www.spacebuild.co.in/haldwani-residential-interior-design-services",
     siteName: "Space Build",
     type: "article",
     locale: "en_IN",
