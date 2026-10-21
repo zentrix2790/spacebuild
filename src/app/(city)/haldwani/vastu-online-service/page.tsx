@@ -24,7 +24,7 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/vastu-online-service",
+    canonical: "https://www.spacebuild.co.in/vastu-online-service",
   },
 
   openGraph: {

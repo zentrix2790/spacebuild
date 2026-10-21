@@ -25,7 +25,7 @@ export const metadata = {
     "luxury interiors Haldwani",
   ],
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/interior-designers-haldwani",
+    canonical: "https://www.spacebuild.co.in/interior-designer-in-haldwani",
   },
   robots: {
     index: true,

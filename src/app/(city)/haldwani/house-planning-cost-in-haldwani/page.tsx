@@ -23,7 +23,7 @@ export const metadata = {
   ],
 
   alternates: {
-    canonical: "https://www.spacebuild.co.in/haldwani/house-planning-and-cost-in-haldwani",
+    canonical: "https://www.spacebuild.co.in/house-planning-cost-in-haldwani",
   },
 
   openGraph: {
